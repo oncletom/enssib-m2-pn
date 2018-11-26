@@ -1,0 +1,25 @@
+= Git et le déploiement continu
+:experimental:
+:lang: fr
+:toc:
+:toc-title: Table des matières
+
+Matériel de cours pour les sessions « Git et le déploiement continu » du Master 2 Publication Numérique de l'Enssib.
+
+*Objectif du cours* : générer une sortie Word, HTML et e-book de manière automatisée, depuis une même source texte versionnée dans le temps.
+
+== Pré-requis
+
+* un compte *GitHub* • https://github.com/join[créer un compte]
+* installer *Node.js* • https://nodejs.org/fr/download/[installeurs officiels] • https://oncletom.io/node.js/chapter-02/#install[guide en français]
+* installer *Git* • https://git-scm.com/downloads[installeur officiel]
+* installer *Atom* • https://atom.io[installeur officiel]
+** connecter le compte GitHub (menu:Packages[GitHub > Show GitHub Tab > Login])
+* installer ces *extensions pour Atom* • https://flight-manual.atom.io/using-atom/sections/atom-packages/[manuel d'installation des paquets Atom]
+** installer l'extension *Teletype* pour Atom • link:atom://settings-view/show-package?package=teletype[1-click install] • https://teletype.atom.io[site officiel]
+** installer l'extension *asciidoc-preview* pour Atom • https://atom.io/packages/asciidoc-preview[page du paquet]
+** installer l'extension *language-asciidoc* pour Atom • https://atom.io/packages/language-asciidoc[page du paquet]
+
+== Références & manuels
+
+* https://asciidoctor.org/docs/user-manual/#formatting-marks[Asciidoc]
