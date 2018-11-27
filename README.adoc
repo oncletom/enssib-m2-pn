@@ -22,7 +22,13 @@ Matériel de cours pour les sessions « Git et le déploiement continu » du Mas
 
 == Références & manuels
 
-* https://asciidoctor.org/docs/user-manual/#formatting-marks[Asciidoc]
+* https://asciidoctor.org/docs/user-manual/#formatting-marks[Asciidoc] (texte à balisage léger)
+* https://help.github.com/categories/github-pages-basics/[GitHub Pages] (publication en ligne)
+* https://docs.travis-ci.com/user/job-lifecycle/[Travis CI] (intégration continue)
+** https://docs.travis-ci.com/user/languages/javascript-with-nodejs/[Exécuter un projet Node.js]
+** https://docs.travis-ci.com/user/deployment/pages/[Déployer sur GitHub Pages]
+* http://ndpsoftware.com/git-cheatsheet.html[Visualiser les concepts Git]
+* https://lab.github.com/[Apprendre GitHub par la pratique]
 
 == Points de départ
 
