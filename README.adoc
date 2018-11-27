@@ -23,3 +23,8 @@ Matériel de cours pour les sessions « Git et le déploiement continu » du Mas
 == Références & manuels
 
 * https://asciidoctor.org/docs/user-manual/#formatting-marks[Asciidoc]
+
+== Points de départ
+
+* https://papyrus.bib.umontreal.ca/xmlui/handle/1866/20642[Projet fil rouge « L’édition à l’ère numérique »]
+* https://www.zotero.org/groups/683843/master_pun/items/collectionKey/9ZJERHI5[Collection Zotero PUN3]
