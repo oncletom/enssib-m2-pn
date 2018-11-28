@@ -52,3 +52,4 @@ Rejoindre le portail `atom://teletype/portal/e51d8ce0-c644-499f-a234-41f58073760
 - Tess : La réédition des classiques de la littérature anglophone
 - Mélina : Les partitions musicales numériques 
 - Marie Hélène : Les stratégies éditoriales des bibliothèque universitaires
+- Appoline : L'IA et la disruption appliquée à la publication numérique
