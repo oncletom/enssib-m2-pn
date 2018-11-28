@@ -46,3 +46,5 @@ Rejoindre le portail `atom://teletype/portal/e51d8ce0-c644-499f-a234-41f58073760
 - Bien comprendre tout le processus et les outils qu'on va utiliser (+1)
 
 == Nos sujets de mémoire
+
+- Les partitions musicales numériques 
