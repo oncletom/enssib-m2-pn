@@ -1,0 +1,29 @@
+= Journal
+
+== Mercredi 28 novembre 2018
+
+=== Ce que j'ai appris
+
+- en apprendre plus sur GitHub
+- coder en Asciidoc
+- je vois l'utilité d'Asciidoc et GitHub
+- je vois une autre option que Sigil
+- utiliser un autre outil pour travailler en groupe
+- l'aspect collaboratif du travail
+- plus simple, plus simple, plus intuitif que Sigil
+- qu'on pouvait copier/coller depuis le PDF sans avoir à gérer les sauts de ligne
+- savoir ce qu'est enfin GitHub sans en avoir peur, notamment appel d'aide quand ça foire
+- on a moins de chances de se tromper
+- on peut avoir une interface de développeur sur laquelle installer des packages
+
+=== Pour une prochaine fois
+
+- commencer par une présentation courte de l'interface GitHub
+- avoir ce cours plus tôt dans le cursus ?
+- continuer le 2x6 heures (on peut continuer au lieu de s'arrêter après l'initiation)
+
+== Pour la prochaine fois
+
+- feuille récapitulative de GitHub (flow, erreurs)
+- feuille récapitulative Asciidoc avec ce qu'on a utilisé
+-
