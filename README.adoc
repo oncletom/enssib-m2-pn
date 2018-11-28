@@ -40,7 +40,9 @@ Matériel de cours pour les sessions « Git et le déploiement continu » du Mas
 Rejoindre le portail `atom://teletype/portal/e51d8ce0-c644-499f-a234-41f58073760b`.
 
 - Comprendre ce qu'est GitHub, Teletype, Atom, Asciidoc, etc.
-- Apprendre à utiliser github (x3)
- En apprendre un peu plus sur Git et le développement en général
+- Apprendre à utiliser github (x4)
+- En apprendre un peu plus sur Git et le développement en général
 - Revoir un peu HTML CSS et tout ce genre de choses
 - Bien comprendre tout le processus et les outils qu'on va utiliser (+1)
+
+== Nos sujets de mémoire
