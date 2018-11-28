@@ -1,0 +1,341 @@
+
+
+
+image::benoit-epron.jpg[benoit-epron, 200, 200, role="related thumb right"]
+
+"De 2005 à 2010, le livre numérique a progressivement intégré tous les maillons de la chaîne du livre, cependant que les enjeux numériques étaient placés au premier plan de la politique menée par le ministère de la Culture et de la Communication, obligeant le Service du livre et de la lecture à s’adapter à ce contexte nouveau."
+-- Benoît Epron, ancien professeur référent du Master Publication Numérique à l'ENSSIB
+
+
+[.text-justify]
+= Les éditeurs face au numérique
+:toc:
+:toc-title: Table des matières
+
+toc::[]
+
+
+[.text-justify]
+== Des enjeux très hétérogènes
+
+
+{nbsp} La filière de l’édition présente, au-delà de l’apparente homogénéité d’un secteur d’activité, une situation hétérogène dans son rapport au numérique. La structuration des secteurs éditoriaux et des marchés n’est pas la même et induit donc des approches différentes vis-à-vis du développement de l’écosystème numérique. Ces approches diffèrent notamment en raison des différences de statut des auteurs, utilisateurs, clients ou acheteurs.
+
+{nbsp} Le rapport au numérique de chaque secteur est fonction de différents paramètres, comme l’existence d’un marché professionnel (édition juridique), le degré de
+concentration des acteurs (édition scientifique) ou la nature des acheteurs (édition scolaire). Ces enjeux sont mouvants, l’édition numérique s’inscrivant dans l’évolution
+constante et rapide du contexte technologique et des usages.
+
+{nbsp} Cette évolution présente des disparités importantes. En France, le Syndicat national de l’édition (SNE) estime la part du numérique dans le chiffre d’affaires global de
+l’édition à 8,65 % en 2016. Dans le même temps, la part du numérique dans le marché étatsunien de l’édition est estimée à plus de 33 %.
+
+{nbsp} À grands traits, les enjeux des différents secteurs de la filière de l’édition sont les suivants :
+
+1. La définition de modèles économiques hybrides qui permettent de gérer la coexistence à plus ou moins long terme d’une activité éditoriale sur
+supports numériques et sur supports papier. C’est notamment le cas pour l’édition de littérature grand public qui voit la part de son activité relative
+au numérique croître progressivement.
+2. La définition de formes éditoriales numériques pertinentes et adaptées. C’est notamment le cas pour l’édition scolaire ou l’édition jeunesse dans
+lesquelles se posent des questions relatives à l’interactivité ou aux fonctionnalités embarquées. Ces questionnements portent sur l’efficience
+ou la valeur ajoutée réelle de ces fonctionnalités ou enrichissements. Depuis les années 2000, le concept d’__édition augmentée__ est étudié et
+discuté. Ses applications sont encore limitées, mais constituent une voie intéressante pour certains secteurs.
+3. L’adaptation des modèles, des filières et des acteurs. Ces enjeux politiques
+ne sont pas spécifiques à certains secteurs même si l’édition scientifique en
+est un bon exemple. En effet, il s’agit d’un secteur déjà quasiment
+entièrement numérique, dans lequel des débats politiques posent la
+question de la place des différents acteurs, publics ou privés, dans cette
+activité.
+
+{nbsp} Ces enjeux couvrent également des aspects transversaux de l’édition numérique : le
+statut des auteurs de livres enrichis, la place des bibliothèques dans ce nouvel
+écosystèmes ou encore l’environnement législatif, concernant le prix unique du livre ou
+les durées d’embargo par exemple. Ces questionnements sont complexes car ils mêlent
+des aspects techniques, politiques et économiques.
+
+[.text-center]
+video::F9OBL49LjWg[youtube, width=640, height=480]
+
+[.text-justify]
+
+== La littérature : nouvelles formes de diffusion
+
+{nbsp} La littérature est, en termes de visibilité et de poids symbolique, un secteur central
+dans l’analyse du passage au numérique de l’édition. La littérature représente en effet,
+d’après les chiffres du SNE, environ 25 % du chiffre d’affaire de l’édition en France,
+devant les secteurs de la jeunesse et du livre pratique. Ce secteur a longtemps concentré
+les attentions et analyses lorsqu’était évoqué le __livre numérique__. Cette focalisation
+s’explique notamment par la visibilité dont bénéficie la littérature auprès du grand public
+et par le rôle matriciel qu’elle pourrait jouer pour les autres secteurs. En effet, depuis le
+Village eBook de l’édition 2000 du Salon du livre de Paris, la question du livre
+numérique a longtemps été abordée sous le double angle du dispositif de lecture et du
+modèle économique.
+
+{nbsp} Dans les années 2000, les expériences de développement de dispositifs techniques
+de lecture numérique se multiplient avec notamment le lancement du CyBook par la
+société Cytale en 2001. Ce dispositif, un écran d’ordinateur portable tactile intégré à une
+coque recouverte d’un rabat en cuir, ouvre plusieurs questionnements. Tout d’abord, il
+pose la question du matériel nécessaire à une activité de lecture numérique. Le
+rétroéclairage de l’écran, ses performances d’affichage, la taille ou le poids du dispositif
+deviennent des problématiques auxquelles il apparaît indispensable de répondre avant
+d’imaginer le développement d’un marché du livre numérique. Les acteurs du livre, en
+l’occurrence les éditeurs, se retrouvent donc confrontés à de nouveaux types
+d’interlocuteurs avec d’un côté les fabricants de dispositifs techniques de lecture qui
+conditionnent, de façon logicielle ou matérielle, l’expérience de lecture et, de l’autre, les
+plates-formes dédiées au livre numérique, qu’elles soient de commercialisation et/ou
+d’autoédition. Ce secteur de l’édition est ainsi confronté à de multiples formes
+émergentes de diffusion. Comme pour l’ensemble des modèles numériques de document,
+cette transformation de la diffusion se structure autour d’une tension entre
+désintermédiation et réintermédiation.
+
+{nbsp} D’une part, il s’agit d’une dynamique de diffusion __directe__ des productions
+éditoriales, de l’auteur au lecteur, dans une logique d’autoédition. Ce modèle n’est pas
+propre à la littérature numérique – il existait déjà des éditions à compte d’auteur dans le
+monde de l’imprimé – mais elle prend sur Internet une dimension particulièrement
+importante. D’autre part, la réintermédiation, est le mécanisme d’émergence de nouveaux
+acteurs intermédiaires dans la diffusion des produits éditoriaux numériques. Le point à
+souligner dans ce mouvement de réintermédiation est la nature des nouveaux acteurs,
+parfois nouveaux entrants dans le domaine du livre, qui déploient des modèles
+économiques dans lesquels la part de leurs revenus issue de la vente des ouvrages
+numériques reste très limitée. Ainsi, en réintermédiant leur diffusion numérique, les
+éditeurs traditionnels se trouvent confrontés à des acteurs ayant des objectifs stratégiques
+potentiellement très éloignés. Dans le cas d’Apple par exemple, la diffusion des produits
+éditoriaux numériques ne représente qu’une part très réduite de son activité, au contraire
+de la vente de matériel. Le cas d’Amazon est différent : en soutenant un tarif relativement
+bas pour ses liseuses, c’est davantage la croissance de sa base de clients qui est
+recherchée. Cette divergence en termes d’enjeux stratégiques complique d’autant plus la
+relation de coopération entre les éditeurs et ces diffuseurs numériques qu’elle s’inscrit
+dans un rapport de forces nettement à l’avantage des plates-formes de diffusion. Des
+tentatives de reprise en main de la distribution numérique par les éditeurs existent
+toutefois. Certaines, comme Immatériel.fr ou Dilicom, se positionnent comme
+intermédiaire de distribution vers les plates-formes de commercialisation, tandis que
+d’autres se focalisent sur des secteurs spécifiques, comme Cairn pour l’universitaire.
+
+[.text-justify]
+== L’édition jeunesse : des nouvelles productions multimédia
+
+{nbsp} L’édition jeunesse est à considérer précisément dans sa confrontation au
+numérique. Si l’édition d’ouvrages traditionnels destinés à la jeunesse (__Harry Potter__ par
+exemple) s’inscrit dans des logiques proches de celles de la littérature, le cas de l’édition
+illustrée, augmentée, interactive… est bien différent. Nous appréhenderons ici
+uniquement ce second cas pour mieux identifier les enjeux spécifiques auxquels ce
+secteur est aujourd’hui confronté.
+
+{nbsp} La particularité de l’édition jeunesse dans son passage au numérique réside dans la
+spécificité des formes éditoriales qu’elle prend. Par formes éditoriales, nous entendons
+l’ensemble des fonctionnalités exploitant les potentialités interactives et multimédia
+propres au numérique. Dans ce domaine, les enjeux pour l’édition jeunesse se situent à
+plusieurs niveaux.
+
+{nbsp} Dans un premier temps, la question de la pertinence de ces fonctionnalités
+nouvelles dans la création de productions éditoriales pour la jeunesse se pose. Il ne s’agit
+pas d’une problématique récente : les acteurs impliqués dans les productions __éditoriales__
+sur supports numériques (comme le CD par exemple) ont du traiter ces questions depuis
+plusieurs décennies déjà. Ainsi, l’apport d’éléments multimédias dans les trames
+narratives ou dans l’illustration de récits est une question qui s’est déjà largement posée à
+la fois aux éditeurs et aux auteurs d’oeuvres destinées à la jeunesse. Elle se pose
+aujourd’hui de manière différente en raison notamment du renouvellement permanent des
+possibilités offertes par le numérique (comme la réalité virtuelle ou augmentée, pour ne
+parler que des pistes les plus récentes).
+
+{nbsp} Dans un second temps, l’évolution des formes éditoriales induit une
+complexification des processus éditoriaux. En effet, en intégrant des éléments de plus en
+plus variés dans les productions éditoriales numériques pour la jeunesse, les éditeurs et
+les auteurs se trouvent confrontés à des problématiques économiques et juridiques de plus
+en plus diversifiées. Ainsi, quels modèles de rémunération et de gestion des droits utiliser
+dans le cas de l’intégration d’une interactivité tactile dans un récit illustré ? Quels seront
+les statuts des différents contributeurs dès lors qu’un projet peut rassembler un auteur, un
+illustrateur, un animateur ou un développeur ?
+
+{nbsp} Enfin, le dernier aspect à considérer pour l’édition jeunesse est celui des modèles
+économiques mis en oeuvre lors du passage au numérique. Ainsi, en investissant les
+potentialités du numérique, les éditeurs jeunesse se trouvent confrontés à des choix
+stratégiques à la convergence des formats techniques, des circuits de distribution et de
+diffusion et des pratiques de lecture. Ces choix, complexes, conditionnent l’ensemble de
+la filière. Le choix du format, ePub ou application, est nécessairement associé à un
+modèle économique spécifique, et à une diffusion par les acteurs du livre ou par des
+plates-formes d’applications (__iTunes Store__ ou __Google Play__). Les modèles tarifaires et
+fiscaux suivent ces logiques et poussent l’édition jeunesse soit vers le champ de l’édition
+de livres numériques soit vers celui des applications et du jeu vidéo.
+
+
+[.text-justify]
+== Les manuels universitaires : nouvelles formes de consultation
+
+{nbsp} Les manuels représentent un versant important de l’édition universitaire. À la
+différence des revues savantes destinées principalement à un public de chercheurs ou
+d’étudiants en fin de cursus pour accompagner un travail de recherche , les manuels
+universitaires visent un public d’étudiants dans un contexte d’apprentissage. Ce marché
+est donc tourné vers deux types de clientèles potentielles : étudiants faisant l’acquisition à
+titre personnel d’ouvrages qui vont les suivre tout au long d’un enseignement, et
+bibliothèques universitaires ou académiques. À cette première clé de segmentation du
+marché, il faut en ajouter une seconde qui prend en compte les différences entre les
+disciplines. On distingue principalement les sciences humaines et sociales (SHS) des
+sciences, techniques et médecine (STM). La confrontation au numérique du secteur des
+manuels universitaires conduit à interroger à la fois les pratiques documentaires des
+étudiants, leurs comportements d’achat ainsi que leurs approches pédagogiques.
+
+{nbsp} L’ensemble de ces critères dessine une situation de l’édition de manuels
+universitaires numériques très contrastée. Par exemple, le modèle de l’édition de manuels
+de gestion en premier cycle n’a que peu à voir avec celui des codes juridiques destinés
+aux étudiants en droit. Il est toutefois possible d’identifier certains invariants dans
+l’évolution des différents modèles. D’une part, les pratiques documentaires des étudiants
+sont fortement liées aux pratiques pédagogiques qu’ils rencontrent, notamment la
+prescription de lecture. Ces pratiques s’appuient aujourd’hui largement sur des platesformes
+pédagogiques dont les fonctionnalités techniques constituent elles aussi un
+ensemble de contraintes et permettent la mise à disposition des ressources directement
+par les enseignants. D’autre part, les pratiques d’acquisition par les étudiants restent, en
+France, largement conditionnées par le marché de l’occasion dans une logique d’achatrevente
+et par une forte attente, envers les Bibliothèques universitaires (BU),
+d’exhaustivité des ressources documentaires nécessaires au suivi des cursus. Les manuels
+numériques doivent donc trouver leur place selon des modalités qui correspondent à ces
+pratiques. Ainsi, la définition d’un modèle pour l’édition numérique de manuels
+universitaires doit prendre en compte à la fois les spécificités disciplinaires des pratiques
+documentaires des étudiants, les contraintes des environnements pédagogiques
+universitaires et les attentes des enseignants et des bibliothécaires dans la mise à
+disposition des ressources documentaires.
+
+[.text-justify]
+== Les encyclopédies : de nouvelles formes de légitimation
+
+{nbsp} Le secteur des encyclopédies a connu ces dernières décennies deux phases bien
+distinctes dans son passage au numérique, séparées par le lancement de Wikipédia qui
+marqua un tournant majeur pour ce secteur. La première phase a vu, à partir des années
+1990, un « simple » changement de support avec l’arrivée des encyclopédies sur CD puis
+DVD. Cette évolution permit aux éditeurs d’exploiter les potentialités du format
+numérique comme la puissance de recherche ou l’intégration de contenus multimédias
+dans les notices. Cette phase fut accompagnée d’investissements importants des éditeurs
+dans des versions enrichies de leur produits, tout en conservant le modèle traditionnel
+combinant des auteurs identifiés, parfois connus, rédigeant des notices, et la vente de ces
+produits selon une logique classique de vente directe au consommateur. Cette situation a
+conduit nombre d’éditeurs d’encyclopédie à renoncer, à partir des années 2000, à leurs
+versions imprimées voire dans certains cas à disparaître.
+
+{nbsp} Ce changement de support a été suivi d’une seconde phase, modifiant bien plus en
+profondeur ce secteur éditorial, avec l’arrivée de Wikipédia. Cette encyclopédie
+collaborative, lancée en 2001, connaît un succès important, qui l’a élevée depuis
+plusieurs années au sixième rang des sites les plus visités dans le monde.
+Plusieurs facteurs doivent être pris en compte pour analyser ce bouleversement. Le
+premier est la croissance d’une pratique de recherche en ligne qui passe de plus en plus
+par l’interrogation d’un moteur de recherche, au lieu de la saisie d’une adresse URL dans
+un navigateur. De plus, l’intégration de Wikipédia comme une des bases du Knowledge
+Graph (base sémantique de connaissances utilisée par Google) donne une visibilité
+extrêmement importante à ses notices. En 2016, Wikipédia proposait plus de 1 900 000
+notices en français et plus de 46 millions au niveau mondial, dans plus de 280 langues.
+
+{nbsp} Le principal facteur de changement introduit par Wikipédia du point de vue
+éditorial réside dans le mécanisme de création et de validation des contenus qu’elle
+propose. En effet, la logique contributive à la base de Wikipédia constitue un
+renversement du processus de légitimation des contenus encyclopédiques. Celui-ci passe
+ainsi d’une validation verticale descendante, apportée par l’éditeur et par la légitimité des
+contributeurs, à une logique de validation collective par l’ensemble des contributeurs. Il
+découle de cette approche une instabilité systémique des notices proposées, à l’opposé de
+la pérennité des encyclopédies traditionnelles inscrites dans une temporalité longue.
+Ce n’est donc pas uniquement le changement de support au cours de la première
+phase qui explique ce bouleversement du secteur des encyclopédies, mais la conjonction
+d’une logique contributive et du développement de parcours de recherche d’information
+en ligne dans lesquels les contenus proposés par Wikipédia trouvent très efficacement
+leur place. Dans ce nouvel environnement, et en occupant la place prépondérante qu’elle
+occupe aujourd’hui, Wikipédia doit déployer des mécanismes de modération et de
+validation de plus en plus efficaces pour faire face aux tentatives multiples d’utilisation à
+des fins commerciales ou politiques.
+
+{nbsp} Le secteur des encyclopédies présente donc, parfois de manière archétypale,
+plusieurs éléments caractéristiques des problématiques éditoriales à l’ère numérique.
+D’une part, le changement de support est à considérer à deux niveaux radicalement
+différents. Le premier niveau, formel, n’induit pas de modifications structurelles des
+modèles en place, les éditeurs étant souvent dans une logique de maintien d’un modèle
+économique classique. Le second niveau est plus délicat : en passant d’un support
+imprimé à un format numérique, les encyclopédies ont dû appréhender la problématique
+nouvelle de la dispersion de leurs contenus et des parcours des utilisateurs en ligne. La
+capacité à être visible et repéré dans les pratiques de recherche d’informations est
+devenue un point-clé des stratégies numériques des éditeurs d’encyclopédies. D’autre
+part, la question de la légitimité éditoriale a constitué un point de bascule incontournable
+pour ce secteur. En passant d’une logique de légitimation verticale et descendante à une
+approche horizontale et collaborative avec Wikipédia, c’est une des bases du régime
+traditionnel de transmission du savoir qui est questionnée.
+
+[.text-justify]
+== L’édition scientifique et savante : légitimation, modèles économiques, usages et nécessité de structuration
+
+{nbsp} L’édition scientifique et savante – à savoir l’ensemble des contenus produits dans le
+cadre de la recherche et destinés à un public de spécialistes – compte parmi les champs de
+l’édition qui ont été le plus touchés par le développement du numérique. En particulier, le
+Web a profondément modifié les pratiques des chercheurs et, par conséquent, le
+panorama de l’édition scientifique. On peut identifier deux formes éditoriales principales
+dans le domaine scientifique et savant : la revue et la monographie. La revue savante –
+dont l’existence remonte au XVIIIe siècle – est le moyen le plus courant pour publier et
+faire circuler les résultats de la recherche, spécialement dans le champ des sciences
+exactes. L’article scientifique est la forme privilégiée pour partager avec la communauté
+scientifique ses recherches et les revues savantes ont été, depuis le XVIIIe siècle, le vecteur
+par excellence de ce type de contenu. Les monographies savantes caractérisent plutôt la
+production en sciences humaines et sociales – soit des disciplines qui requièrent le
+développement d’argumentations plus longues et discursives, ne pouvant pas toujours
+être contenues dans la forme courte de l’article. Dans les deux cas, celui de la revue
+comme de la monographie, nous pouvons identifier trois défis majeurs posés par les
+technologies numériques : en premier lieu, le changement des dispositifs de légitimation,
+en deuxième lieu, une transformation des modèles économiques et, en troisième lieu,
+l’apparition d’une nouvelle exigence de structuration des contenus qui n’était pas
+présente dans le cadre de l’édition imprimée.
+
+{nbsp} L’enjeu de légitimation est crucial pour l’édition scientifique : il faut que le contenu
+soit validé scientifiquement. Cette validation se fait par le biais d’un système
+d’évaluation par les pairs : chaque contenu – monographie ou article – est donné à lire à
+des spécialistes qui donnent leur avis sur la qualité et la rigueur du propos. Ce processus
+est normalement pris en charge par la communauté scientifique elle-même (ce sont des
+chercheurs qui font les évaluations), mais dans la plupart des cas ce sont des maisons
+d’édition qui garantissent la réussite du processus : elles se chargent d’identifier les
+évaluateurs, parfois (même si rarement) les payent, suivent le processus pour s’assurer de
+sa transparence et de son avancement. C’est grâce à ce travail qu’une maison d’édition
+acquiert une plus ou moins bonne réputation et parvient finalement à augmenter la valeur
+symbolique des textes qu’elle publie. Un ouvrage paru chez un grand éditeur a un fort
+prestige, car son niveau de légitimation sera supérieur. Or le Web met en question ce
+modèle, car il produit de nouveaux processus de légitimation : le blog d’un chercheur
+peut bénéficier d’une immense visibilité, par exemple, et peut peser dans la légitimation
+de contenus. Sans maison d’édition ni même processus d’évaluation, le contenu peut être
+cité dans des travaux scientifiques. Un autre aspect qui met en crise les modèles de
+légitimation provient des outils de recherche : les moteurs de recherche généralistes sont
+de plus en plus utilisés par les chercheurs pour leurs travaux scientifiques [Takševa,
+2012] à la place des catalogues des bibliothèques, par exemple. Or cela implique que les
+moteurs de recherche – et en particulier Google Search – commencent à obtenir une
+fonction de légitimation : ce que l’on trouve sur Google est pertinent et, finalement,
+fiable. Les dispositifs de légitimation de l’édition papier sont donc remis en question et
+nous sommes appelés à repenser le processus de validation scientifique.
+
+{nbsp} Un deuxième enjeu est lié aux modèles économiques. Le Web a rendu possibles des
+formes de publication à très bas coût. Un contenu peut en effet être publié en épargnant
+les frais d’impression – qui représentent une part importante des frais éditoriaux. De
+façon plus radicale encore, un chercheur peut déposer un texte sur un dépôt ouvert
+(comme HAL, ou les dépôts des universités, ou encore des dépôts privés comme
+Academia.edu ou ResearchGate) sans même avoir à payer un hébergement, s’il a par
+exemple recours aux services d’une plate-forme comme WordPress (la plus utilisée dans
+les années 2010 pour ce type d’activité). Dans ce cas, les frais éditoriaux sont réduits à
+zéro. Bien évidemment, une publication de ce type ne bénéficie pas (ou pas
+complètement) de la médiation de la fonction éditoriale : il n’y a pas de révision par les
+pairs, de mise en forme, de diffusion, etc. Mais cette possibilité pose une question
+importante à l’édition savante : quel est son rôle et quel est le bon prix que le lecteur peut
+être prêt à payer pour profiter du travail éditorial ? La possibilité de la diffusion gratuite
+impose une réflexion pour redéfinir à la fois le rôle de l’édition dans le domaine
+scientifique et ses coûts. Cette réflexion devient encore plus urgente dans la mesure où
+les grands diffuseurs numériques (Elsevier, Springer, Wiley-Blackwell, Taylor &
+Francis), plutôt que de corréler la baisse des prix de production à une baisse des prix
+d’achat, ont au contraire augmenté ces derniers [__cf.__ par exemple MacColl, 2014]. Les
+profits de ces grands diffuseurs sont passés de 665 millions de dollars en 1991 à environ
+deux milliards en 2012 [Haustein __et al.__, 2015].
+
+{nbsp} Le troisième enjeu est lié aux possibilités qu’offre le numérique par rapport au
+papier. Les contenus peuvent notamment être structurés grâce à un balisage fin des
+informations qui permet ensuite une exploitation automatique – notamment à des fins de
+recherche. C’est ce que l’on fait, par exemple, avec des métadonnées – soit des
+informations structurées à propos du document : titre, auteur, date de création, etc. C’est
+aussi ce que l’on peut faire avec des langages de balisage comme le XML qui permet
+d’expliciter le sens et la valeur de certaines parties des documents : par exemple, spécifier
+que le mot « Athènes » est le nom français d’une ville qui est la capitale de la Grèce et
+qui a certaines coordonnées géographiques. Ajouter ce type d’informations dans un texte
+peut être très utile d’un point de vue scientifique, car les données à l’intérieur des
+documents sont exploitables : ainsi, un géographe pourrait vouloir repérer tous les textes
+qui parlent d’Athènes et de ses alentours et faire une recherche dans les textes à partir des
+coordonnées géographiques. Une autre fonctionnalité importante du numérique est de
+proposer des versions « augmentées » ou « enrichies » des textes, à savoir des versions
+qui contiennent plusieurs types de médias (vidéo, son, image) incorporés dans le texte.
+Exploiter ces possibilités demande des compétences – techniques et théoriques – qui ne
+faisaient pas partie des compétences éditoriales pour l’édition imprimée. Les acteurs de
+l’édition scientifique sont donc appelés à repenser leur fonction et à acquérir de nouvelles
+compétences.
