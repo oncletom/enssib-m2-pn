@@ -57,3 +57,22 @@ Rejoindre le portail `atom://teletype/portal/e51d8ce0-c644-499f-a234-41f58073760
 - Alix : La publication numérique et la richesse des savoirs 
 - Al : Les plateformes d'édition en OA et la publication scientifique
 
+> Une citation
+-- Personne qui parle
+
+== L’édition à l’ère numérique
+
+icon:download[]
+https://papyrus.bib.umontreal.ca/xmlui/handle/1866/20642[Télécharger le PDF].
+
+[options="header"]
+|===
+| Qui               | Chapitre    | Section
+| Mélina            |             | Introduction
+| Marie             | 3           | Les modèles « classiques »
+| Alix              | 3           | Validation collective
+| Appoline          | 2           | Les techniques et la pensée
+| Al                | 1           | Édition et droits d'auteur
+| Tess et Cassie    | 1           | Les éditeurs post-numérique
+| Leila et Nishtha  | 3           | Légitimisation des contenus
+|===
