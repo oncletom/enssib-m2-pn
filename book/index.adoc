@@ -25,3 +25,5 @@ include::Chap3-partie2.adoc[]
 include::tableau6-chap3.adoc[]
 
 include::Chapitre_1_les_éditeurs_face_au_numérique.adoc[]
+
+include::chapitre-04-la-circulation-des-contenus.adoc[]
