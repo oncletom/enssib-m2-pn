@@ -15,7 +15,7 @@ include::Edition et droit d'auteur.adoc[]
 include::Chap_2_Appoline.adoc[]
 
 include::premiere-section-du-troisieme-chapitre.asciidoc[]
-
+ 
 include::epron.adoc[]
 
 include::chap3-partie1.adoc[]
