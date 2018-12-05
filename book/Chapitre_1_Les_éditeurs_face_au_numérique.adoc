@@ -1,7 +1,7 @@
 
 
 
-image::benoit-epron.jpg[benoit-epron, 200, 200, role="related thumb right"]
+image::epron image.jpg[epron image, 200, 200, role="related thumb right"]
 
 "De 2005 à 2010, le livre numérique a progressivement intégré tous les maillons de la chaîne du livre, cependant que les enjeux numériques étaient placés au premier plan de la politique menée par le ministère de la Culture et de la Communication, obligeant le Service du livre et de la lecture à s’adapter à ce contexte nouveau."
 -- Benoît Epron, ancien professeur référent du Master Publication Numérique à l'ENSSIB
