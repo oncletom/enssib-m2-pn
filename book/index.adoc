@@ -14,7 +14,7 @@ include::Edition et droit d'auteur.adoc[]
 
 include::Chap_2_Appoline.adoc[]
 
-include::asciidoc[]
+include::premiere-section-du-troisieme-chapitre.asciidoc[]
 
 include::epron.adoc[]
 
@@ -25,4 +25,3 @@ include::Chap3-partie2.adoc[]
 include::tableau6-chap3.adoc[]
 
 include::Chapitre_1_les_éditeurs_face_au_numérique.adoc[]
-
