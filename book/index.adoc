@@ -8,13 +8,13 @@
 
 toc::[]
 
-include::introduction[]
+include::../introduction[]
 
-include::Edition et droit d'auteur.adoc[]
+include::Edition-et-droit-d'auteur.adoc[]
 
 include::Chap_2_Appoline.adoc[]
 
-include::premiere-section-du-troisieme-chapitre.asciidoc[]
+include::asciidoc[]
 
 include::epron.adoc[]
 
