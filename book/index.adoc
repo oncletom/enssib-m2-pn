@@ -8,24 +8,19 @@
 
 toc::[]
 
-include::../Introduction.adoc[]
+include::introduction[]
 
-include::Edition et droits d'auteur.adoc[]
+include::Edition et droit d'auteur.adoc[]
 
-include::Chap_2_Appoline.adoc[]
+include::Les techniques et la pensée.adoc[]
 
-<<<<<<< HEAD
-include::asciidoc[]
-
-=======
 include::premiere-section-du-troisieme-chapitre.asciidoc[]
  
->>>>>>> b94c5f81725a5f0b1241ef65c3d0d5e04e7ddb03
 include::epron.adoc[]
 
-include::../chap3-partie1.adoc[]
+include::chap3-partie1.adoc[]
 
-include::../Chap3-partie2.adoc[]
+include::Chap3-partie2.adoc[]
 
 include::tableau6-chap3.adoc[]
 
