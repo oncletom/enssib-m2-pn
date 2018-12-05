@@ -8,7 +8,7 @@
 
 toc::[]
 
-include::../introduction[]
+include::../Introduction.adoc[]
 
 include::Edition et droits d'auteur.adoc[]
 
