@@ -180,9 +180,9 @@ priori
 licences   précisent   les   modalités   de   mention   de   l’auteur   et   les   possibilités   d’utilisation
 commerciale   et   de   modification   d’un   contenu.   Une   licence   CC0   permet   même   de
 renoncer à ses droits, dans la limite du cadre législatif de chaque pays. +
-+
-+
-+
+
+
+
 [cols=4*,options="header"]
 |===
 |Schéma de

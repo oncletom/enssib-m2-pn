@@ -7,6 +7,7 @@
 = III / La légitimation des contenus
 
 toc::[]
+
 [.text-justify]
 
 == Les modèles « classiques »
