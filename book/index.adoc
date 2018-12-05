@@ -10,7 +10,11 @@ toc::[]
 
 include::../introduction[]
 
+<<<<<<< HEAD
 include::Edition-et-droit-d'auteur.adoc[]
+=======
+include::Edition et droits d'auteur.adoc[]
+>>>>>>> 63d3dd7a939ae9f2221f91d84df05edda1a1daef
 
 include::Chap_2_Appoline.adoc[]
 
