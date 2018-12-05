@@ -73,7 +73,7 @@ icon:globe[] https://oncletom.github.io/enssib-m2-pn/[Consulter la version HTML 
 | Mélina            |             | link:introduction[Introduction]
 | Marie             | 3           | link:chap3-partie1.adoc[Les modèles "`classiques`"]
 | Alix              | 3           | link:Chap3-partie2.adoc[Validation collective]
-| Appoline          | 2           | link:Chap_2_Appoline.adoc[Les techniques et la pensée]
+| Appoline          | 2           | link:Les techniques et la pensée.adoc[Les techniques et la pensée]
 | Al                | 1           | link:Edition et droit d'auteur.adoc[Édition et droits d'auteur]
 | Tess et Cassie    | 1           | link:Les éditeurs face au numérique.adoc[Les éditeurs post-numérique]
 | Leila et Nishtha  | 3           | link:epron.adoc[Légitimisation des contenus]
