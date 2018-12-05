@@ -1,5 +1,24 @@
 = Journal
 
+== Mercredi 5 décembre 2018
+
+=== Ce que j'ai appris/retenu
+
+- voir un outil qui transforme rapidement du Asciidoc en quelque chose de plus complexe
+- ça bug en fonction des systèmes d'exploitation, ça fait pas les mêmes erreurs
+- pas mal de choses en 12 heures
+- y'a des outils qui existent et on peut passer par du code pour faciliter la tâche
+- de reprendre la main sur GitHub (il faut pratiquer pour comprendre l'outil et ses objectifs)
+- écrire la syntaxe Asciidoc et utiliser l'outil est plus facile que d'écrire directement du HTML
+- y'a des jours où ça fonctionne pas
+- glitch, c'est plus simple à comprendre que GitHub (on y a passé moins de temps mais c'était plus clair à prendre en main)
+
+=== Ce qui aurait amélioré mon expérience
+
+- une méthode qui évite d'empiéter sur les fichiers
+- avoir une feuille avec le récapitulatif des commandes
+- les objectifs de l'outil, pourquoi c'est utile, où est-ce qu'on commence, où est-ce qu'on finit
+
 == Mercredi 28 novembre 2018
 
 === Ce que j'ai appris
