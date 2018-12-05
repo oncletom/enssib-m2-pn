@@ -10,7 +10,7 @@ toc::[]
 
 include::introduction[]
 
-include::enssib-m2-pn/book/Edition et droits d'auteur.adoc[]
+include::Edition et droits d'auteur.adoc[]
       
 
 include::Chap_2_Appoline.adoc[]
