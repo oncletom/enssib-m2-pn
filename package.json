@@ -4,7 +4,7 @@
   "description": "= Git et le déploiement continu :experimental: :lang: fr :toc: :toc-title: Table des matières",
   "main": "index.js",
   "scripts": {
-    "book": "asciidoctor -b html5 book.adoc -o index.html"
+    "book": "asciidoctor -b html5 book/index.adoc -o index.html"
   },
   "repository": {
     "type": "git",
