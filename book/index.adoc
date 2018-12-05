@@ -1,4 +1,4 @@
-= L'édition à l'ère numérique
+= L'édition à l'ère analogique
 :author: Benoit Epron, Marcello Vitali-Rosati
 :revdate: 2018-05-31
 :revnumber: v1
