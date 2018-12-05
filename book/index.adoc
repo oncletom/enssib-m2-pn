@@ -23,4 +23,3 @@ include::chap3-partie1.adoc[]
 include::Chap3-partie2.adoc[]
 
 include::tableau6-chap3.adoc[]
-
