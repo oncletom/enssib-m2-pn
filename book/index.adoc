@@ -1,0 +1,26 @@
+= L'édition à l'ère numérique
+:author: Benoit Epron, Marcello Vitali-Rosati
+:revdate: 2018-05-31
+:revnumber: v1
+:toc-title: Table des matières
+:sectnums:
+:leveloffset: +1
+
+toc::[]
+
+include::introduction[]
+
+include::Edition et droit d'auteur.adoc[]
+
+include::Chap_2_Appoline.adoc[]
+
+include::asciidoc[]
+
+include::epron.adoc[]
+
+include::chap3-partie1.adoc[]
+
+include::Chap3-partie2.adoc[]
+
+include::tableau6-chap3.adoc[]
+
