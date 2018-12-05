@@ -1,4 +1,4 @@
-= L'édition à l'ère analogique
+= L'édition à l'ère numérique
 :author: Benoit Epron, Marcello Vitali-Rosati
 :revdate: 2018-05-31
 :revnumber: v1
@@ -8,7 +8,7 @@
 
 toc::[]
 
-include::introduction.adoc[]
+include::Introduction.adoc[]
 
 include::Edition et droits d'auteur.adoc[]
 
@@ -24,6 +24,6 @@ include::Chap3-partie2.adoc[]
 
 include::tableau6-chap3.adoc[]
 
-include::Chapitre_1_les_éditeurs_face_au_numérique.adoc[]
+include::Chapitre_1_Les_éditeurs_face_au_numérique.adoc[]
 
 include::chapitre-04-la-circulation-des-contenus.adoc[]
