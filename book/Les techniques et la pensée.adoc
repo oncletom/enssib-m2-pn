@@ -1,12 +1,11 @@
-== II / La production des contenus
+= II / La production des contenus
 
 
-La plate-forme et l’écriture
+= La plate-forme et l’écriture
+== Les techniques et la pensée
 
 
-Les techniques et la pensée
-
-
+[.lead]
 Les outils façonnent la pensée. Ce que nous pouvons penser et ce que nous pouvons dire résulte d’une dynamique dans laquelle les outils et les techniques jouent un rôle fondamental. L’idée spiritualiste selon laquelle la pensée se construit au-delà de toute matérialité et que les outils et les techniques ne servent qu’à la faire apparaître a été profondément critiquée, en particulier au XXe siècle : pensons par exemple à la célèbre phrase de McLuhan « le médium est le message » ou aux analyses de Jack Goody [1979] sur le rapport étroit entre l’écriture et la naissance de la pensée scientifique [Deseilligny, 2013].
 
 Ce qui nous intéresse plus particulièrement ici est le fait que les outils et les techniques d’écriture ne sont pas neutres par rapport aux contenus que l’on peut produire. Pour être plus précis : les techniques et les outils d’écriture, mais aussi les modes de diffusion des textes, conditionnent et façonnent ce que l’on écrit.
@@ -16,7 +15,7 @@ Du côté des modes de diffusion, on peut ainsi souligner la différence fondame
 Quant aux techniques et aux outils à proprement parler, on connaît déjà l’influence des instruments sur le statut de l’écriture : de la plume – réservée à une élite – à la démocratisation du stylo à bille, un changement radical de la valeur symbolique de l’écriture s’est opéré. Entre l’imagerie de l’auteur à sa table de travail, plume à la main, et l’omniprésence industrielle du stylo à bille qui, comme l’affirme Umberto Eco, est probablement le « seul exemple de socialisme réalisé », on s’aperçoit qu’écrire n’a plus le même sens. Mais outre la dimension symbolique, il est évident que la vitesse de l’écriture, tout comme la valeur économique du papier et son format, ou encore les possibilités d’effacer ce qui a été écrit, changent non seulement les pratiques d’écriture, mais aussi le contenu même de ce que l’on peut écrire.
 
 
-Les outils numériques
+= Les outils numériques
 
 
 Les outils d’écriture et de diffusion n’ont cessé d’évoluer dans l’histoire de nos sociétés. Les changements survenus à la fin du XXe siècle et au début du XXIe sont cependant particulièrement impressionnants. On peut résumer ces changements en cinq grandes catégories : 1) la maniabilité du texte ; 2) le rapprochement entre texte manuscrit et texte diffusé ; 3) la multiplication des formats ; 4) les possibilités de structuration ; 5) les possibilités de recherche de ressources pour l’écriture.
@@ -33,5 +32,6 @@ Une réflexion s’impose quant à la façon dont le numérique modifie la phase
 
 Parallèlement, il faut insister sur le fait que les outils numériques ne peuvent pas être considérés comme un tout. Il ne s’agit donc pas de chercher comment « le numérique » en général change notre façon de produire des contenus, mais plutôt de réfléchir aux différentes formes d’écriture que les outils numériques proposent, pour comprendre comment les choix technologiques reflètent nos conceptions de l’écriture. En d’autres termes, si l’on ne saurait dire ce que fait exactement le numérique à l’écriture – et en général à la pensée – il faut du moins analyser les visions du monde et de l’écriture au fondement de chaque outil.
 
-Tableau 2. Principaux formats de textes associés aux logiciels qui permettent de les traiter.
-image:: tab_2.png
+Tableau 2
+
+image::tab_2.png[Principaux formats de textes associés aux logiciels qui permettent de les traiter.]

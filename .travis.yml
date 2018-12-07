@@ -1,0 +1,13 @@
+language: node_js
+node_js: node
+cache: npm
+
+script: npm run book
+
+deploy:
+  - provider: pages
+    skip-cleanup: true
+    github-token: "$GH_TOKEN"
+    local-dir: book
+    on:
+      branch: master

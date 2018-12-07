@@ -1,0 +1,16 @@
+body {
+  font: 20px/1.5 Georgia, serif;
+}
+
+#header,
+#content {
+  margin: 10vw;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #b32;
+}
+
+.paragraph {
+  max-width: 36em;
+}

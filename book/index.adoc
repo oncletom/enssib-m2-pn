@@ -8,13 +8,13 @@
 
 toc::[]
 
-include::introduction[]
+include::Introduction.adoc[]
 
-include::Edition et droit d'auteur.adoc[]
+include::Edition et droits d'auteur.adoc[]
 
-include::Chap_2_Appoline.adoc[]
+include::Les techniques et la pensée.adoc[]
 
-include::asciidoc[]
+include::chap1.asciidoc[]
 
 include::epron.adoc[]
 
@@ -24,4 +24,10 @@ include::../Chap3-partie2.adoc[]
 
 include::tableau6-chap3.adoc[]
 
+<<<<<<< HEAD
 include::Chapitre_1_les_éditeurs_face_au_numérique.adoc[]
+=======
+include::Chapitre_1_Les_éditeurs_face_au_numérique.adoc[]
+
+include::chapitre-04-la-circulation-des-contenus.adoc[]
+>>>>>>> 0788ddd98a62ac76eb427cee793d77aa8b8515c9
