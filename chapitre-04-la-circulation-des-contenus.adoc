@@ -1,0 +1,316 @@
+= La circulation des contenus
+
+== Le Web
+
+=== L'importance du Web
+Le terme « numérique » a désormais acquis une signification culturelle très large [Doueihi, 2011].
+Il n'est plus utilisé seulement comme un adjectif, mais aussi comme un substantif : le numérique.
+Cela signifie que ce terme ne réfère plus seulement à des outils ou à des technologies particulières, mais aussi à un ensemble de transformations sociales, culturelles,  politiques,  économiques  et  anthropologiques  déclenchées  par  le  développement technologique, mais ne dépendant plus exclusivement de ce dernier.
+En particulier, lorsque l'on parle des changements que les technologies numériques ont déterminés dans le champ de l'édition, on peut faire référence à une multiplicité d'outils et d'instruments informatiques, mais on parle aussi de changements institutionnels, sociaux, politiques, etc.
+Cependant, on ne peut pas nier que la naissance et la diffusion du Web a eu un impact particulièrement fort sur le monde de la production, de la circulation et de la légitimation des contenus.
+Le Web peut être considéré comme la première détermination des caractéristiques de ce que nous appelons le « numérique ».
+En particulier, le changement majeur qu'il a apporté, entraînant ensuite des transformations dans l'ensemble des autres domaines, est la facilitation de la circulation et de l'accessibilité des contenus.
+
+=== L'idée du Web : faciliter la circulation
+En 1989, Tim Berners-Lee, un informaticien anglais qui travaillait au CERN de Genève, remarque un problème majeur dans la gestion des informations au sein du centre de recherche : les documents ne sont pas assez accessibles et il est très difficile de trouver les informations dont on a besoin, malgré le fait qu'elles soient potentiellement disponibles.
+Le problème identifié par Tim Berners-Lee concerne la circulation de l'information : les employés du CERN changent souvent et les nouveaux arrivants ont du mal à récupérer les informations dont ils ont besoin, car la seule manière d'y parvenir est d'en discuter avec les autres.
+Parce que les documents concernant le centre sont en perpétuelle évolution, ils sont difficilement organisables en une structure figée (comme le permettrait un livre imprimé).
+C'est en cherchant la solution à ce problème que l'informaticien jette les bases, en 1989, du World Wide Web [Berners-Lee, 1989].
+L'idée fondamentale est de trouver une manière de rendre accessibles l'ensemble des documents en réseau et de les raccorder entre eux via un système de liens.
+Concrètement, cela signifie : 1) attribuer à chaque document un nom unique sur tout le réseau (le principe des URL, pour uniform resource locator) ; 2) établir un format universel pour les documents (le HTML, pour hypertext markup language) ; 3) définir un protocole de transmission de ces documents via Internet (le HTTP, pour hypertext transfert protocol).
+Ces trois principes permettent la création d'une nouvelle forme de circulation des contenus : les documents deviennent accessibles à tous ceux qui disposent d'une connexion Internet.
+À partir de 1990, formater un document en HTML et le déposer sur un serveur signifie le rendre public, le « publier ».
+La fonction de diffusion des contenus propre à l'édition a trouvé une nouvelle expression.
+Par ailleurs, en raison de la généralisation de la connexion Internet, la diffusion via le Web produit une accessibilité incomparablement plus élevée que celle pouvant être offerte par une maison d'édition à travers l'impression.
+
+=== Du Web 1.0 au Web 3.0
+L'idée initiale du Web était de mettre à disposition des documents.
+Les documents formatés en HTML sont déposés sur des ordinateurs connectés (des serveurs) et deviennent des « pages » accessibles.
+Cette première époque du Web, qui va de sa naissance jusqu'à la fin des années 1990, correspond à ce qu'on appelle le Web 1.0, ou Web statique.
+Le modèle du Web 1.0 est assez proche de celui de l'édition papier, car il est fondé sur une idée du document comme une ressource stable – exactement comme une page imprimée.
+Il y a d'une part un producteur du document et d'autre part des lecteurs de ce document : les rôles sont clairement établis.
+À partir de la fin des années 1990, le Web commence à s'orienter vers une nouvelle forme d'organisation des contenus : alors qu'il se contentait de mettre en relation une série de documents, il commence à inclure des relations avec des individus.
+Le Web est alors fait de documents et de personnes.
+C'est ce que Darcy DiNucci [1999] appelle le Web 2.0 et qu'on qualifiera par la suite de « Web social ».
+Les contenus deviennent dynamiques, car les usagers commencent à pouvoir ajouter eux-mêmes des informations : commentaires,  recommandations,  images,  informations  sur  leurs  profils,  etc.
+ TripAdvisor, qui permet aux usagers d'évaluer restaurants et hôtels, apparaît en 2000.
+Wikipédia, l'encyclopédie participative, est lancée en 2001.
+Quant à Facebook et Twitter, ils apparaissent en 2006.
+Le rôle des « lecteurs » change radicalement : le lecteur devient contributeur.
+En même temps, les contenus perdent leur stabilité : ils sont susceptibles de changer à tout moment.
+Ce sont deux transformations majeures par rapport au modèle de l'édition papier.
+Le Web 3.0, ou Web sémantique, ajoute aux relations entre documents et personnes d'autres relations avec les machines.
+Les informations, à partir du moment où elles sont correctement structurées et balisées, peuvent ainsi être utilisées, comprises et réagencées non seulement par les lecteurs, mais aussi par des algorithmes.
+Les machines deviennent à leur tour des instances éditoriales, capables d'organiser les contenus.
+
+//todo: tableau à mettre en forme
+ Encadré 1.
+L'histoire d'Internet et du Web 1969  Première connexion du ARPANET, réseau physique créé à des fins militaires.
+Le réseau fera l'objet d'une présentation officielle en 1972 à l'International Computer Communication Conference, date à laquelle soixante terminaux seront connectés à l'ARPANET.
+ 1970  Sous la supervision de Stephen Crocker, le Network Working Group crée le premier protocole de transmission de données d'ARPANET, le Network control protocol (NCP).
+ 1973  Création d'un second protocole, le Transmission control protocol (TCP), par Vinton Cerf et Robert Kahn.
+ 1982  Devant le nombre croissant d'hôtes se connectant au réseau, Paul Mockapetris crée le Domain Name System (DNS, protocole de correspondance entre IP et nom de domaine).
+ 1983  Réorganisation du TCP en un nouveau protocole, le Transmission control protocol/Internet protocol (TCP/IP).
+ARPANET adopte le protocole TCP le 1er janvier 1983.
+ 1986  La National scientific foundation (NSF) adopte le protocole TCP/IP et finance la construction d'une dorsale (câble transocéanique) traversant les États-Unis.
+ 1990  S'inspirant de la notion d'hypertexte de Ted Nelson, Tim Berners-Lee développe le World Wide Web à partir du langage HTML (Hypertext markup language) et du protocole HTTP (Hypertext transfer protocol).
+ 1992  Développement du navigateur Mosaic, dont hériteront entre autres Netscape et Internet Explorer.
+Premier navigateur à afficher directement les images, Mosaic contribue au gain exponentiel de popularité du World Wide Web.
+ 1994  Tim Berners-Lee fonde le World Wide Web Consortium (W3C), qui assure la standardisation des technologies web et l'évolution de ses différents protocoles.
+ 1995  L'introduction de Netscape ($NSCP) sur les marchés financiers marque le début de la bulle internet (« dot-com bubble ») et un gain d'intérêt marqué du secteur économique à l'égard du Web.
+Après que l'indice NASDAQ a quintuplé en cinq ans, la bulle éclate vers mars 2000.
+ 1998  Fondation de Google par Larry Page et Sergueï Brin.
+ 2001  Suite à l'échec relatif de Nupedia, projet d'encyclopédie numérique dont la rédaction et la validation des articles devaient être assurées par des expert, Jimmy Wales et Larry Singer créent Wikipédia avec l'intégration de l'application libre wiki.
+ 2003  Dale Dougherty propose le terme « Web 2.0 », parfois référencé sous les noms de « Web social » ou « Web participatif », pour désigner une nouvelle phase interactive du Web— interactivité qui était d'emblée envisagée par Berners-Lee à la création du World Wide Web.
+ 2004  Création de Facebook, alors réservé aux étudiants de Harvard, par Mark Zuckerberg.
+Le réseau social sera rendu public en 2006.
+ 2005  Création de YouTube par Steve Chen, Chad Hurley et Jawed Karim.
+Le site web sera racheté par Google en 2006.
+ 2006  Création de Twitter par Jack Dorsey, Evan Williams, Biz Stone et Noah Glass.
+
+=== Les limites de la circulation des contenus numériques
+L'expansion du Web a rendue possible une circulation des contenus potentiellement sans limite.
+La généralisation de la connexion Internet fait qu'un document, une fois mis en ligne, devient accessible à des millions de personnes.
+Le rêve qui était à la base du projet de Tim Berners-Lee semble s'être réalisé.
+Il faut souligner combien ce rêve s'insère parfaitement dans la tradition de l'édition, dont l'une des principales fonctions est la circulation des contenus.
+L'invention de la presse à caractères mobiles au  XVe  siècle avait déjà permis de multiplier la puissance de diffusion des  contenus.
+Les manuscrits, pour circuler, devaient être copiés manuellement : le coût et le temps requis par cette opération en limitaient très fortement la circulation.
+Par ailleurs, la circulation était freinée par la difficulté physique de faire voyager le support : un livre arrivait en effet seulement là vers où on le transportait.
+À première vue, la circulation sur le Web semble avoir abattu toutes ces frontières : la diffusion des contenus est désormais ubiquitaire, les fichiers peuvent être multipliés et copiés gratuitement, voyager à la vitesse de la lumière, etc.
+Ce discours ne résiste pourtant pas totalement à une analyse plus attentive.
+On compte au moins quatre limites principales à la circulation des contenus dans les environnements connectés : les barrières techniques et culturelles, les barrières géopolitiques, les barrières linguistiques et, enfin, la différence fondamentale entre accessibilité et visibilité.
+
+1. Les barrières techniques et culturelles se manifestent principalement à travers les phénomènes de « fracture numérique » (digital divide) et de « fracture culturelle » (cultural divide).
+La fracture numérique renvoie à la division entre les zones géographiques ayant accès à une connexion Internet et celles qui n'en ont pas.
+Cette fracture peut se manifester entre différents pays ou zones géographiques (l'Afrique centrale a par exemple un accès très modeste à la connexion par rapport à l'Europe occidentale et l'Amérique du Nord), mais aussi à l'intérieur d'un même pays – on sait par exemple que les campagnes sont moins connectées que les villes.
+Cela crée une véritable différence sociale et culturelle entre les différentes parties de la population mondiale.
+2. À cela s'ajoutent les barrières géopolitiques, qui correspondent aux politiques de censure et de limitation de l'accès à l'information propres à certains pays, tels que la Chine.
+Mais même dans des régions connectées et non soumises à la censure, on peut identifier une fracture culturelle : le fossé qui sépare les personnes dotées d'une culture numérique suffisante pour se servir des médias électroniques et ceux à qui cette culture fait défaut.
+Ce problème est réel et particulièrement critique à une époque où plusieurs informations ne sont plus disponibles que sur un support informatique accessible via une connexion.
+3. Les barrières linguistiques semblent constituer un fait banal, et pourtant il est important de souligner combien la circulation des contenus continue à s'opérer à l'intérieur de communautés linguistiques bien délimitées.
+Pour pallier cette difficulté, on assiste à une prédominance de l'anglais comme lingua franca – avec les conséquences politiques et culturelles que peuvent entraîner une telle suprématie.
+C'est pourquoi la recherche sur les traductions – en particulier sur les traductions automatiques – est devenue fondamentale.
+Cependant, les progrès récents réalisés dans le domaine de la traduction automatique sur base statistique par Google Translate, et l'association de cette approche à des algorithmes fondés sur l'apprentissage machine, n'ont fait que laisser dans les mains du géant de la Silicon Valley la gestion de cette limite et la possibilité de la dépasser.
+Si bien que la circulation des contenus a tendance à acquérir une structure fortement centralisée, au lieu de favoriser la décentralisation et la dissémination des documents propre au projet initial du Web.
+4. Si ces deux premières barrières limitent l'accessibilité des contenus – en empêchant les usagers d'avoir, dans le premier cas, un accès matériel et, dans le second cas, un accès cognitif aux ressources –, une dernière barrière reste à prendre en compte : celle de la visibilité.
+Car en raison de la quantité considérable de contenus existants (et donc potentiellement accessibles), un nombre très limité de documents est réellement visible.
+En effet, pour être visible, un contenu doit être référencé, indexé ou recommandé sur d'autres plates-formes.
+Dans le cas contraire, il est noyé dans la masse d'informations existantes et demeure invisible.
+Mais quels sont les instances qui rendent un contenu visible – et qui, de fait, opèrent véritablement une fonction de diffusion ? Concrètement, il s'agit des moteurs de recherche – Google en premier lieu – et des réseaux sociaux – comme Twitter et Facebook.
+En d'autres termes, nous sommes encore une fois face au risque d'une forte centralisation de la fonction éditoriale.
+
+==  Les librairies et les maisons d'édition face à la circulation GAFAM
+
+=== La constitution d'un oligopole à franges
+La structuration progressive de l'écosystème numérique a fait émerger une forte concentration des acteurs.
+Cette dynamique oligopolistique de concentration des activités numériques autour d'un nombre restreint de plates-formes est observable dès le début des années 2000 avec pour certaines plates-formes des externalités positives (retombées positives alimentant leur succès) et qui leur permet d'occuper progressivement des positions fortes sur leurs secteurs d'activités.
+C'est ainsi que la paysage des moteurs de recherche est passé de quelques dizaines d'acteurs au début du Web à un marché structuré dans sa quasi-totalité autour de trois acteurs (Google, Yahoo, Bing), hors les exceptions notables de la Chine (Baidu) et de la Russie (Yandex).
+Cette évolution est observable dans un grand nombre de secteurs d'activité avec comme corollaire une concentration des moyens et donc de la capacité à proposer des services innovants et coûteux en terme d'infrastructures.
+Ces nouveaux services permettant de capter de nouveaux usages, ce qui renforce davantage ces positions.
+La situation de ces marchés peut ainsi être qualifiée d'oligopole à franges, c'est-à-dire un marché structuré principalement autour d'un nombre réduit d'acteurs captant la majeure partie du marché et entourés d'un grand nombre d'acteurs de taille bien plus réduite se partageant une part très limitée du marché.
+Cette tectonique des usages numériques a abouti à l'émergence d'acteurs largement dominants regroupés sous l'acronyme GAFAM pour Google, Apple, Facebook, Amazon et Microsoft.
+Ces acteurs occupent aujourd'hui une place prépondérante sur leur marché.
+Google dispose ainsi depuis plusieurs années d'une part de marché mondiale dans les recherches en ligne supérieure à 75 %.
+Son système d'exploitation Android a capté plus de 80 % de la part de marché des OS mobiles et son système de messagerie Gmail est également largement en tête des services de messagerie.
+Le cas d'Apple est un peu particulier : en effet, depuis l'arrivée de Samsung et d'Android sur le marché des smartphones, Apple a perdu sa première position en termes de ventes de smartphones et de part du parc des systèmes d'exploitation utilisés.
+L'entreprise reste toutefois largement dominante en termes de valeur avec environ 90 % des profits sur le marché des smartphones en 2016.
+Pour ces deux acteurs, la part du parc des OS installés induit également la part dans le marché des contenus associés (iTunes Store, App Store ou Google Play).
+Ainsi, iBooks représente en 2015 11 % du marché américain du livre numérique en volume et 12 % en valeur.
+Sur le marché des réseaux sociaux la position de Facebook est également largement dominante avec, en 2017, plus de 50 % du trafic sur les réseaux sociaux et une base d'utilisateurs actifs nettement majoritaire avec plus de 1,8 milliard d'usagers en janvier 2017.
+À la même époque, la part de marché de Facebook sur les réseaux sociaux était de 18 %, devant What's App à 11 %, également propriété de Facebook.
+La place dominante de Microsoft dans le domaine des systèmes d'exploitation et bien connue, mais pour l'édition numérique, c'est Amazon qui est l'acteur le plus pertinent à observer.
+En effet, avec 74 % du volume des ventes de livres numériques aux États-Unis en 2015, Amazon est nettement en position de leader sur ce marché.
+Au-delà du livre numérique, la part estimé d'Amazon dans le commerce en ligne aux États-Unis est estimée à 43 % en 2016.
+Les industries culturelles connaissent depuis longtemps ce type de marché, les niveaux de concentration atteints dans le domaine de la musique enregistrée ou de l'édition en témoignent.
+Elles se retrouvent donc confrontées pour leurs activités numériques à une structuration du marché qui questionne leur propre place dans les filières.
+L'édition académique a également été touchée par ces changements de modèles.
+On peut distinguer deux périodes Au cours de la première période la logique de platesformes et de structuration oligopolistique du marché joua à plein, avec l'émergence d'acteurs atteignant des positions très fortes et rassemblant des volumes de ressources éditoriales de plus en plus importants.
+Cette situation s'accompagna d'une augmentation des budgets d'acquisition des bibliothèques (principale clientèle de ce type de documentation) pour les ressources numériques.
+Une seconde période s'est ensuite ouverte, en partie en réaction à l'augmentation des tarifs, avec le développement d'un modèle tourné vers un accès ouvert aux productions éditoriales scientifiques, s'appuyant sur les outils du Web permettant cette désintermédiation.
+Pour l'ensemble des secteurs éditoriaux, les conséquences principales de cette situation doivent être analysées de façon précise tant elle conditionne les modèles susceptibles d'être déployés dans les différents filières et notamment dans celle de l'édition.
+
+=== Poids des modèles, évolution et comparaison internationale
+La première conséquence de l'arrivée des GAFAM dans le monde du livre est une évolution forte des modèles de circulation.
+Nous en détaillerons trois : le modèle éditorial, le modèle de la publication Web et celui de l'édition académique.
+
+*Le modèle éditorial.*
+L'activité éditoriale s'est structurée depuis longtemps dans un modèle d'affaires et d'organisation de filière stabilisé dans lequel les éditeurs occupent une place centrale [Chartron, 2016].
+Du fait de sa position très en amont dans la filière, l'éditeur dispose de plusieurs leviers de pilotage.
+Ainsi, en sélectionnant les contenus qui seront édités, il joue un rôle clé dans l'alimentation du circuit de distribution.
+Il maîtrise également, notamment en France, les prix de vente et la répartition de la remontée des recettes du fait de la présence dans les principaux groupes d'édition d'acteurs en charge de la distribution.
+Ce dernier aspect est un élément central dans la construction des groupes d'édition (il a d'ailleurs joué un rôle important dans les mouvements de concentration qu'a connu l'édition française depuis les années 1980).
+Cette intégration des plates-formes de distribution est en effet un facteur important puisqu'elle permet de fixer les conditions de vente et de remise qui influent directement sur les marges des libraires et des éditeurs, surtout sur un marché à prix unique comme en France.
+Ce modèle est largement remis en question avec l'arrivée des GAFAM et le passage à l'édition numérique.
+C'est l'arrivée d'Amazon et la croissance très rapide de sa part de marché dans la vente de livres en ligne qui a tout d'abord modifié les rapports de forces.
+En se positionnant dès sa création sur le créneau de la vente en ligne de livres imprimés, Amazon a développé l'offre de titres de loin la plus importante aujourd'hui et des capacités logistiques de haut niveau.
+Au cours de son développement mondial, l'entreprise a également constitué une base de clientèle de plusieurs centaines de millions de personnes.
+En atteignant ce poids sur le marché du livre physique, Amazon a inversé en partie le rapport de forces entre l'amont de la filière (l'édition) et l'aval (la distribution).
+Cette inversion est très importante, car elle ne se limite pas aux ouvrages sur support papier mais touche également le livre numérique.
+Sur ce marché, Amazon occupe une place de leader, ayant largement participé au développement du marché aux États-Unis avec la commercialisation d'une liseuse, la Kindle.
+Lancée en 2007 aux ÉtatsUnis et en 2009 en France, elle est régulièrement mise à jour et constitue pour Amazon un vecteur central dans la construction de son écosystème du livre numérique.
+ Avec le développement du marché du livre numérique, les GAFAM bouleversent encore un peu plus le modèle éditorial.
+L'ensemble de ces firmes ont investi d'une façon ou d'une autre dans le marché du livre numérique, à des niveaux et avec des stratégies différentes.
+Google a, dès 2004, lancé Google Print (qui deviendra Google Books ou Google Livres), programme de numérisation de masse d'ouvrages essentiellement issus de bibliothèques partenaires.
+S'il a donné lieu à plusieurs actions en justice, Google Livre constitue aujourd'hui un corpus de quelque 25 millions d'ouvrages.
+Apple a ouvert son iBooks Store simultanément au lancement de l'iPad, en 2010.
+Comme l'entreprise l'avait fait pour la musique, les applications ou les jeux, l'objectif est de proposer des contenus pouvant alimenter un dispositif numérique et ainsi encourager son achat.
+Microsoft, qui s'était associé en 2012 à Barnes & Nobles et à sa liseuse Nook avant de mettre fin au partenariat en 2014, envisageait à nouveau en 2017 de proposer des livres numériques à la vente via une librairie intégrée à son système d'exploitation.
+Enfin, Amazon a encore fait évoluer son offre numérique en lançant en 2014 Kindle Unlimited, qui propose par abonnement mensuel l'accès, sous conditions, à plusieurs centaines de milliers de livres numériques.
+Ainsi, à l'exception de Facebook, les principaux acteurs du numérique et les plus importantes plates-formes en ligne ont tous une activité en lien avec le livre numérique.
+Pourtant, celui-ci occupe une place particulière dans leurs modèles d'affaires.
+En effet, pour l'ensemble de ces exemples, le livre numérique ne constitue pas une source directe de valeur ajoutée.
+Il joue un rôle de « produit d'appel » dont la valeur sera réalisée au travers d'autres services ou offres.
+Dans le cas d'Apple, c'est la vente de matériels qui constitue, de loin, la principale source de revenus.
+Pour Google, la logique est différente : en proposant un corpus de cette taille, c'est une captation de l'attention qui est visée et donc sa valorisation via les mécanismes publicitaires qui produisent l'énorme majorité des bénéfices de Google (il convient d'ajouter que les ouvrages numérisés constituent également un outil précieux dans le développement des services de traduction automatique sur lesquels travaille la firme depuis de nombreuses années).
+La part du livre numérique dans l'activité d'Amazon est compliquée à mesurer, mais il est probable qu'il joue également un rôle dans l'accroissement de sa base de clients, notamment à travers son service premium.
+Cette analyse du rapport à l'édition des GAFAM souligne bien les enjeux actuels de l'édition numérique, s'agissant des rapports de forces entre éditeurs et plates-formes, mais aussi de la place du livre, en l'occurrence numérique, dans la stratégie de ces dernières.
+
+*Le modèle de la publication Web.*
+Nous proposons de rassembler sous cette terminologie un ensemble de modèles d'affaires qui sous-tendent en partie l'activité de publication numérique prise dans une acception large, couvrant aussi bien des textes que des contenus audiovisuels ou multimédia.
+Dans l'ensemble de ces modèles le principe est le même, à savoir une dissociation nette entre les circuits de distribution/diffusion et les circuits de financement.
+Dans les modèles traditionnels de publication, les mécanismes de remontée des recettes sont bien connus.
+Soit il s'agit d'une logique de paiement à l'acte qui amorce une remontée financière tout au long de la filière (par exemple la vente d'un ouvrage correspond à la perception par le libraire, le distributeur, l'éditeur, l'auteur… d'un montant calculé comme une part du prix de vente).
+Soit, et de façon non exclusive, il s'agit d'une logique de fructification de l'attention suscitée par le produit (le fameux « temps de cerveau disponible »).
+Dans cette seconde logique, des annonceurs achètent au diffuseur une partie de cette attention via un support publicitaire dont le prix est calculé en fonction de l'audience captée par le produit (c'est le cas par exemple lorsqu'un annonceur achète un espace publicitaire sur une chaîne de télévision).
+Ce faisant, ils alimentent également une remontée des recettes qui sera partagée entre les différents acteurs de la filière.
+Ce type de marché, dit biface, combine une source de revenus issue de ventes à l'utilisateur final et un financement publicitaire.
+Sur le Web, les modèles utilisés pour la publication se sont largement construits sur un seul versant, celui de la publicité.
+Cette approche a longtemps été la principale solution de financement pour les publications en ligne : la vidéo est dans cette logique d'accès gratuit avec comme contrepartie des messages publicitaires ajoutés au début ou au cours de la vidéo.
+La presse en ligne, comme la musique, ont également longtemps exploité ce modèle.
+Pour le secteur de l'édition, cette approche ne s'est jamais réellement déployée, le poids symbolique du livre freinant sûrement la juxtaposition de messages publicitaires et de contenus éditoriaux.
+De ce fait, la publication sur le Web utilise plusieurs mécanismes de financement : la publicité, le financement amont (subvention par exemple), le freemium (un accès gratuit au contenu mais proposant des formats ou services complémentaires payants) ou encore le financement participatif.
+
+*Le modèle académique.*
+L'édition académique est constituée de deux marchés différents, celui des ouvrages ou manuels de formation et celui des revues de recherche.
+Historiquement, les auteurs d'articles parus dans les revues académiques ont très tôt investi la publication en ligne avec la création d'archives ouvertes dédiées à la publication et au partage d'articles.
+Les acteurs commerciaux ont également proposé très tôt des offres numériques avec un accès à distance aux revues numériques.
+À l'occasion de ce changement de support, les éditeurs scientifiques ont transposé leur modèle classique, celui de l'abonnement, en proposant aux institutions abonnées un accès en ligne à des « bouquets » de revues numériques.
+Ces abonnements étaient onéreux mais, ramenés au nombre de titres, présentaient encore un intérêt pour les bibliothèques, même si cela s'est amenuisé avec la hausse importante des tarifs imposée par les grands éditeurs scientifiques.
+Le modèle de l'abonnement utilisé pour les publications académiques (revues ou ouvrages), papier d'abord et numérique ensuite, demeure cependant particulièrement intéressant.
+Du point de vue économique, l'abonnement, ou plus précisément la licence d'accès, correspond à un modèle dans lequel le tarif est partiellement décorrelé de l'usage.
+En effet, le paiement par une institution académique ou une bibliothèque universitaire d'une licence pour des publications scientifiques ouvre l'accès à l'ensemble des usagers de cette institution.
+Quels que soient les accès effectifs à ces ressources, le montant restera globalement forfaitaire.
+Ce type d'offre présente deux caractéristiques : d'une part, le paiement d'un abonnement forfaitaire pour accéder à une offre de contenus ; et, d'autre part une collection de titres ou de contenus extrêmement importante.
+Ce modèle de licences s'est également développé dans les secteurs de la musique avec Deezer en 2007 et Spotify en 2008, dans le secteur du jeu vidéo dès 2003 avec Steam ou dans celui de l'audiovisuel avec Netflix en 2010.
+Il est également présent dans l'édition grand public via l'offre Kindle Unlimited d'Amazon depuis 2014.
+Reconnaissance des formats et marché Le numérique, questionne également les modèles éditoriaux traditionnels du point de vue des formats – nous désignons ici par « format » des formes éditoriales et non des formats informatiques de fichiers.
+Avec l'arrivée des nouveaux formats numériques, les libraires et éditeurs sont amenés à revoir leur pratiques dans la construction de gammes de produits, et ce à deux niveaux.
+À un premier niveau, on assiste à un certain nivellement des livres numériques vers un type unique de format(age) éditorial, indépendamment du fichier, qui ne propose pas au lecteur d'expériences de lecture différenciées.
+Il n'existe pas, pour le livre numérique, de logique de gamme ou de formats comme le support papier l'autorise : les éditions « grand format », « poche », « limitée », « luxe »… n'y ont en effet pas de sens, la perception qu'a le lecteur d'un livre numérique étant principalement conditionnée par le dispositif de lecture dont il dispose.
+Il n'est donc pas possible de faire varier la forme de l'ouvrage numérique pour en proposer différentes déclinaisons.
+Un des leviers disponible pour repenser cette construction de gamme est de segmenter l'offre selon le niveau de services accompagnant l'ouvrage numérique.
+Ces services associés peuvent notamment consister en l'ajout de contenus illustratifs, d'approfondissement, etc.
+Cela revient en réalité à produire deux versions (ou éditions) d'un ouvrage : une version complète et une version partielle proposant uniquement le texte, sans les enrichissements.
+Les services complémentaires peuvent également être liés à la portabilité – c'est-à-dire la possibilité de lire le livre numérique sur plusieurs supports différents (smartphone, tablette, ordinateur, livre lu…) – ou à l'accessibilité de l'ouvrage numérique.
+Il s'agit d'une approche déjà utilisée dans certains domaines avec au départ un accès à une version en ligne de l'ouvrage ou du texte, et, en montant en gamme, l'accès à d'autres versions, souvent autonomes, sous forme de fichiers à utiliser sur tablette ou liseuse.
+Cette montée en gamme peut également correspondre à des accès simultanés ou multiples à l'ouvrage, permettant par exemple une lecture suivie sur plusieurs dispositifs.
+Cette difficulté de segmentation du marché pour l'édition numérique est liée, à un deuxième niveau, à la question de la fixation des prix de vente.
+Depuis les débuts de l'édition numérique, la question du prix du livre numérique s'est posée, du point de vue économique et législatif.
+Du point de vue économique la difficulté consiste pour l'éditeur à définir un prix de vente qui intègre la nouvelle structure de coûts (plus de coûts d'impression mais des coûts de développement), le nouveau circuit de distribution, la disparition des gammes (moyenne entre grand format et poche) et l'acceptation par les acheteurs.
+Cette équation est d'autant plus complexe à résoudre que certaines platesformes de distribution comme Amazon encouragent une uniformité des prix (9,99 $ pour un ouvrage), comme Apple l'a fait pour la musique (0,99 $ pour un titre).
+Si la question de la fixation des prix n'est pas complètement nouvelle pour les éditeurs, la souplesse potentielle dans la variation des niveaux de prix est par contre une vraie nouveauté.
+ Contrairement à l'édition papier, l'édition numérique dispose d'un nouveau levier marketing ou commercial via la possibilité de faire varier le prix du livre numérique tout au long du cycle de vie.
+Cette possibilité (proposer un prix de lancement, remonter ensuite au tarif normal ou proposer des variations liées à l'actualité par exemple) est déjà largement utilisée sur le marché des applications mobiles mais nécessite, de la part des éditeurs, des compétences nouvelles dans l'analyse en temps réel des volumes de ventes déclencher ou mesurer les effets des fluctuations tarifaires.
+
+== Les bibliothécaires face à la « grande bibliothèque numérique »
+L'édition et le livre sont au cœur de l'idée de bibliothèque.
+Les ouvrages sur support papier en ont conditionné le modèle même : ses espaces physiques, construits autour des rayonnages, l'identité de ses professionnels ou encore son inscription dans la cité.
+Les développements du Web et du livre numérique amènent les bibliothèques vers un renouvellement de leur rapport à leur objet, de leurs pratiques et de leur définition en tant qu'institution.
+
+=== Le Web comme grande bibliothèque
+Depuis les débuts du Web, le parallèle avec les bibliothèques n'a cessé d'être développé et analysé.
+Il s'appuie sur deux caractéristiques communes au Web et aux bibliothèques : la facilité d'accès à un coût très faible et la mise à disposition de vastes collections de ressources accessibles à tous.
+Ce rapprochement entre Web et bibliothèques se fonde également sur un aspect que nous avons déjà évoqué précédemment, le paiement forfaitaire décorrelé de l'usage effectif des ressources proposées.
+Ce modèle de licence ou d'abonnement, qui se diffuse aujourd'hui à un nombre croissant de secteurs d'activité en ligne, est historiquement celui de la bibliothèque.
+L'analogie entre les modèles va même plus loin.
+Dans les deux cas, s'il est proposé à l'utilisateur d'accéder gratuitement à une vaste collection de ressources, les services supplémentaires – comme le prêt, la suppression des publicités ou l'accès hors ligne (pour la musique par exemple) – seront payants ou nécessiteront une démarche d'identification.
+Cette évolution importante des possibilités d'accès à des ressources, via la numérisation et ces nouveaux modèles, fait évoluer le rôle des bibliothèques et questionne la spécificité de leur modèle.
+Le rapprochement entre les modèles de la bibliothèque et des industries culturelles est renforcé par la numérisation progressive des contenus proposés par les deux types d'acteurs.
+Cette numérisation conduit à des pratiques de recherche, de consultation et d'accès qui passent par les mêmes dispositifs numériques.
+La consultation en ligne des ressources proposées par la bibliothèque se fait via le même terminal que pour consulter librement des ressources publiées en ligne ou commercialisée.
+Cette proximité entre les différents fournisseurs, rassemblés du point de vue de l'usager sur le même dispositif, renforce la mise en concurrence de l'ensemble des acteurs, bibliothèques comprises, dans l'offre de contenus numériques.
+Cette mise en concurrence ne se limite pas à des questions de coûts mais couvre l'ensemble des aspects de l'expérience utilisateur : qualité des interfaces, facilité d'usage ou adéquation avec son propre écosystème numérique.
+En effet, avec le passage au support numérique, l'ensemble des acteurs du livre entre dans un nouvel écosystème, en ligne, dans lequel chacun doit réinventer ses rôles, modèles et valeurs ajoutées.
+Les bibliothèques n'échappent pas à ces enjeux.
+Ainsi, plus encore que les médias qui le précédèrent dans le développement numérique, le livre joue un rôle majeur dans l'évolution des bibliothèques.
+Cette évolution est observée et mesurée depuis plusieurs années pour les bibliothèques universitaires et académiques, en raison principalement du développement des offres numériques des revues spécialisées.
+Le développement des pratiques et la croissance de l'offre de livres numériques entraînent les bibliothèques de lecture publique vers les mêmes questionnements.
+Car il ne s'agit pas pour le livre numérique d'un « simple » changement de support comme le passage de la VHS au DVD ou du disque vinyle au CD.
+Il s'agit d'un changement à la fois de modèle (l'acquisition, la sélection, l'indexation, la mise à disposition ou la conservation changent radicalement) mais aussi de place dans les écosystèmes de l'édition et plus largement dans les pratiques des usagers.
+En intégrant le livre numérique à ses collections la bibliothèque se positionne dans une offre éditoriale numérique bien plus vaste, accessible en ligne.
+Si ce rôle de repérage et de signalement de ressources en ligne n'est pas nouveau ou lié uniquement au livre numérique, il est toutefois aujourd'hui un enjeu fort de la visibilité des bibliothèques.
+En effet, depuis les premiers temps du Web les modalités d'accès aux ressources publiées en ligne ont largement évolué.
+D'une identification des différents acteurs, publics ou privés, via leur site web les usages sont passés à un accès direct aux ressources via les moteurs de recherche.
+La visibilité institutionnelle des bibliothèques au travers de leur site web n'est donc plus suffisante, celui-ci ne constituant plus un point de passage obligé pour accéder aux collections.
+L'enjeu, et les bibliothèques ont fortement investi ce champ, est donc la visibilité, la « trouvabilité » de l'offre des bibliothèques sur le chemin de navigation des internautes.
+Cette nouvelle donne implique deux enjeux différents.
+D'une part il est primordial pour les professionnels des bibliothèques de maîtriser les techniques d'intégration des ressources des bibliothèques dans les résultats des moteurs de recherche.
+Cette intégration suppose une ouverture des catalogues au Web pour permettre aux moteurs de recherche d'indexer efficacement, titre à titre, l'offre des bibliothèques.
+D'autre part, la diffusion des métadonnées des catalogues aux moteurs de recherche pose la double question de la visibilité des bibliothèques en tant qu'institution et de leur ancrage territorial.
+
+=== Bibliothèques et algorithmes
+Avec le passage sur support numérique de l'offre documentaire des bibliothèques une autre dimension du rôle des bibliothèques a également été modifiée.
+En effet, il appartenait jusqu'à présent aux bibliothèques d'établir l'ensemble des relations entre les documents de leur fonds.
+Cette mise en réseau s'incarne toujours aujourd'hui dans les pratiques de catalogage et de cotation des documents.
+En attribuant à un document une côte et donc un emplacement, physique ou virtuel, dans une collection, les bibliothécaires construisent un maillage sémantique qui relie les éléments de la collection sur la base des métadonnées extraites ou produites autour des documents.
+Il s'agit d'une expertise professionnelle au cœur des métiers des bibliothèques qui consiste à attribuer, via une notice par exemple, un ensemble d'attributs, libres ou prédéfinis.
+Ces attributs, côte, mots-clés, thématiques… permettent de rassembler au sein d'une organisation tangible (les étagères d'une bibliothèque) ou virtuelle (la page de résultats du catalogue) des ressources documentaires.
+Cette construction sémantique, à l'échelle de la collection ou d'un sous-ensemble, constitue une valeur ajoutée unique des bibliothèques.
+Elle est établie sur un temps long et s'appuie sur des outils et des méthodes spécifiques et éprouvées.
+Cet aspect du travail des bibliothèques ne leur est pas exclusif, il se retrouve dans de très nombreux secteurs d'activité, de la librairie au supermarché.
+La particularité réside pour les bibliothèques dans deux aspects : le des documents traités, et le caractère intellectuel des ses traitements.
+En effet, la production de métadonnées nécessite en bibliothèques une connaissance des domaines traités, une interprétation éventuelle des informations disponibles (titre, éditeur…), etc.
+Cette expertise limitait jusqu'à présent l'automatisation d'une partie de ces tâches et a conduit les bibliothécaires à développer des pratiques renforcées de mutualisation et de partage.
+Le glissement vers le numérique des documents peut être appréhendé au travers de trois aspects particuliers de ce type d'activité des bibliothèques.
+Tout d'abord, comme nous l'avons évoqué, les bibliothécaires, en tant que professionnels de l'information, disposent de compétences élevées dans la production de métadonnées, la manipulation de données structurées et l'utilisation d'outils puissants d'interrogation de corpus.
+La difficulté est de positionner la bibliothèque, soit comme point d'entrée vers des collections provenant en partie du Web (sur lesquelles le niveau de stabilité et de structuration des données n'est pas garanti) ou vers des ressources provenant de bases connues et identifiées (archives ouvertes par exemple) ; soit comme fournisseur de ressources, par exemple de données bibliographiques, qui seront utilisées et reprises par d'autres points d'accès comme les moteurs de recherche.
+Dans ce dernier cas, c'est la perception de la bibliothèque par les usagers qui posera question.
+Ensuite, les documents numériques autorisent une forme nouvelle de traitement algorithmique qui s'appuie sur les documents directement et non sur les métadonnées.
+C'est déjà le cas pour les textes, aisément manipulables par des outils informatiques, mais cette capacité de traitement automatisé et algorithmique se déploie également pour les autres formats comme la vidéo ou la musique.
+Cette capacité offerte par le numérique de confier la production des métadonnées (des index dans la plupart des cas) à un traitement logiciel fait glisser l'expertise du traitement documentaire des professionnels de l'information aux spécialistes des outils informatiques.
+Cette approche n'est évidemment pas exempte de difficultés et de limites.
+Le bruit, par exemple, dans les résultats d'une recherche, c'est à dire la propension du système à proposer des résultats non pertinents par rapport à une requête, est important (il suffit d'observer le nombre de résultats d'une requête sur un moteur de recherche) mais la masse de documents traités et la capacité de l'algorithme à ordonner les résultats selon des critères dits de « pertinence » suffisent apparemment à répondre aux attentes des usagers.
+Il s'agit d'une évolution importante car elle place l'algorithme comme principal outil de traitement et d'interrogation des corpus documentaires, sans avoir recours à un traitement et une production humaine de métadonnées.
+Enfin, la place centrale prise par les algorithmes dans l'indexation et l'interrogation des corpus documentaires a conduit les bibliothèques à déployer deux approches.
+D'une part une évolution des interfaces d'interrogation des catalogues qui, en se rapprochant des moteurs de recherche, amène à masquer la complexité et la finesse des métadonnées exploitables.
+Cette approche pose en creux la question du retour sur investissement du travail conséquent de production manuelle de métadonnées.
+Cette interrogation est d'autant plus forte qu'on assiste à une forme d'externalisation des activités d'indexation (lorsque les ressources sont acquises avec des métadonnées déjà établies) et des outils d'interrogation (comme avec les outils de découverte, qui permettent une interrogation unique de multiples réservoirs de contenus).
+D'autre part, les bibliothèques ont travaillé à la diffusion et à l'intégration de leurs propres métadonnées dans les index des moteurs de recherche.
+Ce faisant elles se placent ainsi dans le champ de vision des usagers lorsqu'ils utilisent un moteur de recherche pour leurs recherches documentaires.
+Le dernier aspect de la médiation algorithmique à l'œuvre sur le Web est l'exploitation par les algorithmes des données d'usage issues des pratiques des internautes.
+Cela correspond à des logiques de recommandation bien connues sur les réseaux sociaux mais également utilisées par des moteurs de recherche.
+Il s'agit d'exploiter les données d'usage provenant des navigations de l'internaute, des liens qu'il suit ou encore de ses achats.
+À partir de ces données, il devient possible de construire un maillage de proximité entre des pages web ou des produits comme nous l'évoquions pour les bibliothèques.
+À la différence principale que cette proximité est construite de façon automatisée et individualisée.
+Dans cette confrontation des bibliothèques aux algorithmes d'indexation, d'interrogation et de recommandation celles-ci ne sont pas dépourvues d'atouts.
+Leur statut d'acteur public leur permet en effet de proposer une véritable transparence concernant les algorithmes qu'utilisent leurs outils.
+Par rapport aux moteurs de recherche, cette capacité de rendre public le fonctionnement de leurs outils représente une réelle valeur ajoutée.
+Elle permet de mettre en avant le caractère neutre du traitement documentaire et de l'accès proposés en bibliothèques, cette neutralité et cette ouverture pouvant aujourd'hui rencontrer un écho favorable auprès des usagers.
+Cette neutralité se retrouve également dans le fait que l'indexation, et donc les proximités entre les ouvrages, sont établies de manière stable, en amont et indépendamment des usages.
+Cela induit une médiation et une recommandation basée uniquement sur une logique sémantique et non sur les intérêts commerciaux de la mise en avant d'un document ou d'un site Web en particulier.
+ Ce déploiement des potentialités d'indexation algorithmiques offertes par le format numérique ouvrent, entre autres, deux champs de réflexion pour les bibliothèques.
+Le premier champ concerne l'exploitation des données d'usage pour des services de recommandation ou de médiation.
+Cette question est complexe pour les bibliothèques.
+Elle s'inscrit dans une tension délicate entre d'une part la garantie d'une forme relative d'anonymat, c'est-à-dire la garantie que les données d'usage ne seront exploitées que pour permettre le fonctionnement  normal de l'établissement (prêts, retours,  l'identification auprès des fournisseurs de ressources en ligne…) et d'autre part la mise en œuvre de services exploitant ces données, de la forme « ce qui ont emprunté ça ont aussi emprunté ça ».
+Cette réflexion doit prendre en compte plusieurs aspects : le cadre juridique qui définit les conditions de conservation et d'utilisation des données personnelles en bibliothèque, l'attente des usagers de retrouver dans leur bibliothèque des services similaires à ceux qu'ils utilisent ailleurs sur le Web ou encore l'importance qu'ils accordent à la protection de leurs données personnelles.
+Le deuxième champ est celui de l'exploitation des potentialités offertes par la dématérialisation des collections pour proposer des interfaces d'exploration innovantes.
+Avec le livre papier, les contraintes physiques liées au rangement de volumes dans l'espace réel amènent les bibliothèques à choisir des modalités d'organisation qui privilégient la proximité.
+Ainsi, dans la plupart des bibliothèques, la disposition des espaces et des documents donne aux usagers une indication sur l'organisation, généralement thématique, des collections.
+Les classifications utilisées en bibliothèques, comme la classification de Dewey, définissent l'arborescence de ces thématiques.
+Cette classification choisie par la bibliothèque est la seule proposée aux usagers.
+Celle-ci placera tel ouvrage à côté de tel autre, imposant ainsi une modalité unique de découverte et d'exploration.
+L'édition numérique ouvre de nouvelles possibilités dans ce domaine.
+Affranchie des contraintes physiques, les collections peuvent être structurées autour d'une multitude d'axes différents et ainsi être abordées selon des critères très différents (par exemple le nombre d'emprunts, la date d'acquisition, la longueur ou la mention d'une personne ou d'un lieu).
+Ces possibilités de structuration autour de critères différents, choisis potentiellement par l'utilisateur, créent de nouvelles proximités entre les ouvrages.
+Elles permettent une exploration et une sérendipité bien plus dynamiques que sur papier, à condition que les interfaces proposées le permettent.
+Les listes proposées par les catalogues, bien que pouvant souvent être triées selon de multiples critères, restent encore trop limitées pour permettre la même facilité de découverte que la déambulation dans les espaces physiques des bibliothèques.
+
+=== Communautés et circulation
+En intégrant des produits éditoriaux numériques dans leurs collections, les bibliothèques déploient progressivement une offre documentaire adressée non plus à un territoire mais à une communauté d'usagers.
+Cette communauté, caractérisée jusqu'alors par une proximité géographique avec les établissements peut s'affranchir des contraintes de déplacement pour se rassembler autour d'une thématique ou d'un corpus particulier (un exemple de ces communautés est celle rassemblée autour des ressources proposées dans Gallica par la BNF).
+En utilisant les réseaux sociaux ou leur propre site web, les bibliothèques construisent des communautés d'usagers en ligne, qui ne s'inscrivent plus dans un territoire défini.
+Plus largement, l'édition numérique amène les bibliothèques à interroger le maillage territorial existant à l'aune d'une offre dématérialisée accessible de n'importe où.
+Dans certains établissements des aspects administratifs ou réglementaires limitent l'inscription des usagers à ceux issus d'une zone géographique précise, ce n'est pas le cas partout et cela n'apporte pas d'éléments de réponse quant à la pertinence de ce type de maillage d'un territoire virtuel.
+En s'affranchissant des contraintes logistiques et matérielles d'accès physique aux ouvrages, l'édition numérique questionne le sens des communautés d'usagers construites autour des bibliothèques.
+Elle ouvre des opportunités réelles de toucher un public plus large, disséminé sur des territoires plus vastes, parfois éloigné ou empêché dans son accès à la bibliothèque comme bâtiment.
+Ces nouvelles communautés d'usagers amènent une nouvelle conception du rôle de la bibliothèque comme espace public, numérique, et comme espace de sociabilisation.

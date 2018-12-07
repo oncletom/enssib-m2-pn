@@ -1,0 +1,238 @@
+== Édition et droits d’auteur
+=== Naissance des droits d’auteur et naissance de l’édition
+Les analyses de l’impact du numérique dans les différents secteurs de l’édition nous
+ont fait remarquer l’importance du concept d’auteur et de son statut dans l’édition. Or ce
+statut ne s’est stabilisé qu’au terme d’une longue histoire, au cours de laquelle la question
+des droits a joué un rôle fondamental. +
+
+« Le statut d’Anne », également connu comme « Copyright Act de 1710 », est un
+texte   adopté   par   le   parlement   britannique   et   qui   est   habituellement   considéré   comme
+l’acte   de   naissance   du   droit   d’auteur
+:   il   s’agit   là,   du   moins,   de   la   première   loi   qui
+réglemente   explicitement   la   publication   et   la   republication   de   livres   en   limitant   la
+possibilité   de   copier   et   de   diffuser   sans   l’autorisation   de   l’auteur.   Il  est   intéressant   de
+constater que cette loi apparaît à une période clé de l’institutionnalisation de l’édition,
+processus auquel elle contribua fortement. Les droits d’auteur sont en effet un pilier de
+l’édition   imprimée,   car   ils   structurent   la   condition   même   d’existence   des   maisons
+d’édition : sans droit d’auteur, le modèle économique ayant permis à ces maisons de se
+développer   et   d’avoir   une   place   si   centrale   dans   la   production   et   la   circulation   des
+contenus n’existerait pas. +
+
+L’invention  de l’imprimerie  a créé  une certaine  séparation  entre le  contenu et le
+support   sur   lequel   il   est   publié   –   une   séparation   auparavant   moins   évidente.   La
+mécanisation de la copie rendue possible par la presse à caractères mobiles permettait en
+effet   d’imprimer   un   même   contenu   pratiquement   sans   effort   et   à   un   coût   réduit.   Au
+contraire, le manuscrit mettait sur le même plan la valeur de l’objet et la valeur de son
+contenu
+: les deux étaient difficilement dissociables. Dans le cas d’un livre imprimé, il est
+devenu plus aisé de distinguer le contenu – reproductible  – de l’objet  – unique. De là
+l’effort théorique pour inventer la notion de droit d’auteur
+: l’auteur n’est pas propriétaire
+de l’objet livre – qui peut donc être vendu –, mais de son contenu – ou pour être plus
+précis, d’une certaine  manière  de formuler des idées qui s’inscrit ensuite dans le texte
+imprimé [Rose, 1993]. L’idée contemporaine de droit d’auteur est donc née en réponse à
+un problème économique et social bien précis, lié surtout à une technologie singulière de
+production et diffusion des textes
+: l’imprimerie. +
+Souligner   la   contemporanéité   de   l’émergence   des   lois   sur   les   droits   d’auteur   et
+l’institutionnalisation de l’édition papier implique de reconsidérer ce modèle juridique à
+une époque où émergent de nouvelles  technologies de production et de circulation des
+contenus. Le numérique fait naître des problèmes et des enjeux économiques et sociaux
+très différents, c’est pourquoi il est nécessaire d’identifier ses caractéristiques spécifiques
+pour comprendre comment notre idée des droits d’auteurs est appelée à changer.
+
+=== Formes de droit d’auteur – États-Unis/Europe
+
+Avant d’identifier les défis posés par le numérique en termes de droit d’auteur, il
+est nécessaire de spécifier les deux différentes interprétations auxquelles cette notion a pu
+donner lieu, en Europe d’abord, puis aux États-Unis.
+
+En   général,   s’agissant   de   l’édition   de   textes,   le   droit   d’auteur   se   fonde   sur   trois
+principes [Rose, 1993] :
+
+. la propriété : l’auteur est propriétaire du contenu de l’œuvre qu’il a produite
+;
+. la responsabilité
+: l’auteur est responsable, moralement et légalement, du contenu de
+son œuvre
+;
+. la   singularité
+:   le   contenu   de   l’œuvre   représente   la   singularité   et   l’originalité   de
+l’auteur.
+
+On comprend que la propriété n’est possible que si on identifie une singularité du
+contenu qui dépend justement de l’auteur. N’importe qui pourrait écrire une histoire du
+droit   d’auteur,   alors   pourquoi   le   texte   que   vous   êtes   en   train   de   lire   appartient-il   aux
+auteurs de ce livre
+? Parce qu’elle représente la singularité de ces auteurs – ce qui en fait
+quelque chose d’unique. Il est aussi évident que, pour en revendiquer la propriété, il est
+nécessaire  d’accepter  la responsabilité  des  contenus
+:  l’auteur  répond de ce  qu’il écrit.
+Cette   responsabilité   –   comme   on   le   verra   dans   le   chapitre
+IV
+  –   implique   aussi   la
+légitimation du contenu
+: l’auteur garantit la fiabilité de ce qu’il écrit. +
+Or la différence fondamentale entre l’interprétation européenne et l’interprétation
+américaine du droit d’auteur est que la première associe au droit patrimonial (le fait que
+l’auteur   est   propriétaire   du   contenu)   un   droit   moral   (le   respect   de   la   singularité   de
+l’auteur), tandis que la seconde se concentre sur le droit patrimonial, sans mentionner le
+droit moral. Dans la législation européenne, le droit patrimonial est limité dans le temps –
+dans la plupart des cas 70 ans après la mort de l’auteur –, tandis que le droit moral est
+pérenne.   Ce dernier   impose  le  respect  de  l’auteur  et   de son œuvre  au-delà  des   enjeux
+économiques.   La   législation   européenne   souligne,   avec   cette   distinction   entre   droit
+patrimonial   et   droit   moral,   la   différence   entre   les   trois   principes   du  droit   d’auteur
+:   la
+responsabilité et la singularité de l’auteur pouvant être pensées séparément par rapport à
+la propriété, elles peuvent perdurer après la fin des droits matériels. +
+Cette différence n’est pas sans importance
+: elle rend notamment problématique la
+gestion  des   droits   d’auteurs   au niveau   international.   Le  principe  du  droit  moral  est  en
+effet   repris   par   la   Convention   de   Berne   pour   la   protection   des   œuvres   littéraires   et
+artistiques   (1886),   accord   dont   la   fonction   est   de   régler   le   droit   d’auteur   au   niveau
+international.   La   convention   stipule   que   dans   chaque   État   signataire   les   ouvrages
+étrangers   bénéficient   de   la   même   protection   que   les   œuvres   locales.
+Par   exemple
+:   un
+ouvrage d’un auteur français sera dans le domaine public au Canada cinquante ans après
+la  mort  de l’auteur,  selon les  règles  canadiennes,  même  si en  France  le  droit d’auteur
+s’étend à soixante-dix ans après la mort de l’auteur. Inversement, un ouvrage canadien
+sera dans le domaine public en France soixante-dix ans après la mort de l’auteur, même si
+au Québec la loi vaut seulement pour cinquante ans.
+
+=== Problèmes actuels
+
+Les considérations sur la Convention de Berne permettent de comprendre comment
+les   technologies   numériques   peuvent   mettre   en   crise   les   lois   sur   le   droit   d’auteur.   La
+convention s’appuyait sur l’idée que les livres circulent physiquement dans un État ou
+dans   l’autre.   L’accessibilité   d’un   livre   dans   un   État   n’impliquait   pas   son   accessibilité
+dans l’autre. Le fait qu’un livre soit tombé dans le domaine public au Canada, mais pas
+en France  ne posait donc que peu de problèmes
+: les Français  n’auraient  pu accéder  à
+l’ouvrage   qu’en   allant   physiquement   au   Canada.   Or,   dans   le   cadre   de   la   circulation
+numérique, un problème se pose
+: si un livre est mis à disposition gratuitement sur un
+serveur au Québec, qu’empêche un Français de le télécharger, même s’il est encore sous
+droit d’auteur en France
+? Cet exemple montre le premier défi posé au droit d’auteur à
+l’époque du numérique
+:  la déterritorialisation des contenus. Un contenu sur le Web est
+en   effet   potentiellement   accessible   partout   dans   le   monde.   S’il   est   vrai   que   l’on   peut
+limiter cette accessibilité – notamment en bloquant les adresses IP étrangères – il est aussi
+vrai que la structure même d’Internet – distribuée, non hiérarchisée – rend très difficile ce
+type de contrôle et très facile son contournement. Le premier défi posé au droit d’auteur
+par le numérique est donc la reconfiguration des frontières de circulation des contenus. +
+Le deuxième défi est lié au coût de reproduction – pratiquement inexistant – des
+objets   numériques
+:   un   fichier   peut   être   multiplié   sans   aucun   coût   réel.   L’édition
+imprimée avait déjà posé en son temps le problème de la reproductibilité
+: c’est justement
+de cette possibilité de reproduction à un coût assez bas qu’était née l’idée moderne de
+droit d’auteur. Mais que se passe-t-il quand le support ne nécessite plus aucun coût de
+production  ou de reproduction
+?  Si un lecteur  est prêt  à payer  pour posséder un livre,
+c’est notamment parce qu’il reconnaît sa valeur objective en tant qu’objet. Lorsque l’on
+parle d’un fichier, le lecteur sait que l’objet en tant que tel n’a presque aucune valeur. +
+Le   troisième   défi   est   déterminé   par   la   surabondance   de   contenus   sur   le   Web.
+L’édition papier est basée sur une économie de la rareté
+: l’information est rare et donc
+précieuse.   Le   web   met   en   place   une   économie   de   l’abondance
+:   les   contenus,   les
+informations qu’on y trouve sont innombrables. Si dans le cadre d’une économie de la
+rareté on peut être prêt à payer un auteur pour produire de nouveaux contenus, cela a-t-il
+encore du sens dans notre culture numérique, où le lecteur, plutôt qu’on lui en propose
+sans cesse de nouveaux, a davantage besoin qu’on l’aide à se repérer parmi les contenus
+existants
+?
+
+=== Plusieurs modèles : du DRM aux creative commons
+
+Le développement  de l’édition  numérique  a été accompagné  d’une une réflexion
+importante   sur   les   outils   juridiques   appropriés.   Il   s’agit   de   répondre   à   deux   types   de
+besoins a
+priori
+ contradictoires
+: d’une part, le souhait de contrôler les usages des fichiers
+numériques contenant les œuvres et notamment de lutter contre le piratage, et d’autre part
+la volonté d’étendre la diffusion des œuvres en redonnant du pouvoir à leurs auteurs. +
+Pour les éditeurs  la problématique  du piratage  était  d’autant  plus  importante  que
+leur   passage   au   numérique   eut   lieu   à   une   époque   où   le   secteur   de   la   musique   était
+confronté à une explosion des téléchargements illégaux. Cette période a donné lieu à la
+création,   entre   autres,   de   solutions   techniques   de   contrôle   des   usages,   communément
+regroupées   sous   le   terme   de   DRM   (Digital   rights   management)   ou   MTP   (Mesures
+techniques   de   protection).   Les   DRM   sont   des   logiciels   qui,   associés   aux   fichiers   des
+œuvres,   permettent   aux   éditeurs   de   définir   précisément   les   usages   qu’ils   souhaitent
+interdire   ou   autoriser.   Cela   peut   concerner   la   possibilité   d’imprimer,   de   copier   ou
+d’accéder aux fichiers. Un autre outil est le
+watermarking
+  (filigranage) des fichiers qui,
+s’il ne vise pas une limitation des usages, permet une traçabilité des fichiers (un usager
+sera moins enclin à diffuser illégalement un livre numérique sur lequel figure son nom). +
+Dans   le   même   temps,   de   nouvelles   propositions   juridiques   ont   émergé   pour,   au
+contraire,   faciliter   la   diffusion,   le   réemploi   et   le   partage   de   contenus.   Parmi   ces
+propositions, la plus visible est celle des licences
+creative commons,
+  lancées en 2001 à
+l’initiative du juriste américain Lawrence Lessig, qui permettent à un auteur de définir
+a
+priori
+  les   conditions   d’usages   et   éventuellement   de   réutilisation   de   ses   œuvres.   Ces
+licences   précisent   les   modalités   de   mention   de   l’auteur   et   les   possibilités   d’utilisation
+commerciale   et   de   modification   d’un   contenu.   Une   licence   CC0   permet   même   de
+renoncer à ses droits, dans la limite du cadre législatif de chaque pays. +
++
++
++
+[cols=4*,options="header"]
+|===
+|Schéma de
+DRM
+|Propriétaire
+|Plate-forme de
+distribution
+|Particularités
+
+|DRM
+d’Amazon
+|Amazon
+|Amazon (Kindle)
+|Interdiction de copier ou de
+transférer un e-book dans une autre
+bibliothèque. Certains e-books
+peuvent être prêtés à un autre
+utilisateur pour une durée de 14
+jours.
+
+|Adobe
+Digital
+Experience
+Protection
+Technolog
+y (ADEPT)
+|Adobe
+|Adobe Digital
+Editions
+|Visionnement des contenus sur un
+maximum de six appareils.
+
+|FairPlay
+|Apple
+|iBooks Store
+|Les contenus achetés ne peuvent être
+lus que sur les liseuses d’Apple.
+
+|Marlin
+|Marlin
+Developer
+Community
+(MDC)
+|Kno
+|Marlin Developer Community est
+composé de cinq sociétés
+: Intertrust,
+Panasonic, Philips, Samsung et
+Sony. La vente de la licence est
+assurée par la Marlin trust
+management organization (MTMO)
+
+|===

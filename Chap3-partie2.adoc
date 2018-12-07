@@ -1,0 +1,282 @@
+== *Validation collective*
+Parmi les multiples enjeux de l’édition numérique, celui de la validation des
+contenus occupe une place centrale. En effet, la dématérialisation et la plus grande
+facilité technique de production des contenus impliquent des mécanismes innovants de
+validation qui amènent, en creux, à questionner la valeur ajoutée par les acteurs
+traditionnels de l’édition dans ces mécanismes. Le chapitre précédent a traité de la
+question des modèles « classiques », nous aborderons ici les mécanismes de validation
+collective.
+
+=== _Contenus grand public et savants et formes de légitimation_
+
+Les contenus à destination du grand public ou des publics savants ou académiques
+s’appuient sur des logiques de légitimation et de validation apparemment distinctes.
+Ainsi, l’édition savante, notamment de revues, repose souvent sur la validation par les
+pairs : les éditeurs ou les revues recueillent des propositions de chercheurs, les soumettent
+à l’évaluation d’autres chercheurs reconnus et décident ou non, au terme d’échanges
+éventuels, de leur publication. Il s’agit d’un mécanisme circulaire et collectif, dans la
+mesure où la validation est réalisée au sein d’un réseau de reconnaissance et de légitimité
+partagée entre les chercheurs. Dans le cas des contenus grand public, la qualité du travail
+de repérage, de sélection et d’accompagnement des oeuvres est reconnue à l’éditeur par
+les lecteurs. Cette reconnaissance devient alors un outil de validation pour les productions
+suivantes. Malgré ces différences, on assiste dans les deux cas à un processus de
+validation où une communauté confère à un acteur central, éditeur ou revue, une
+légitimité à valider des productions nouvelles.
+
+La numérisation de l’édition et la mise en réseau des acteurs remet en cause cette
+centralisation du processus de validation collective, c’est-à-dire le fait que l’ensemble de
+ces mouvements de validation se rapportent à un acteur central du dispositif. On passe de
+modèles de validation a priori et centralisés à des modèles a posteriori, plus diffus. Ces
+nouveaux processus s’appuient sur deux caractéristiques principales de l’édition
+numérique : la capacité de mise à disposition large et peu coûteuse des contenus, et la
+possibilité de dynamiques collectives fondées sur les communautés.
+La première caractéristique, la facilité de mise à disposition de contenus éditoriaux,
+modifie en profondeur la problématique de la validation collective. En modifiant les
+modalités de publication, l’édition numérique autorise un basculement des mécanismes
+de validation vers une légitimation *_a posteriori_* des contenus par des communautés en
+ligne constituées autour des contenus. Dans cette logique, à l’oeuvre dans l’autoédition ou
+la *_fan fiction_* par exemple, la validation collective s’exerce sur un contenu déjà disponible
+auquel une communauté de lecteurs va réagir et construire progressivement une validité.
+La structure de coûts qui accompagne la publication numérique (notamment un coût de
+mise en ligne très faible) renforce la place des plates-formes de publication évoquées
+précédemment. La validation en amont, traditionnellement opérée par les éditeurs, est
+remplacée par une validation collective en aval, après publication sur des plates-formes
+proposant de nombreuses publications et réunissant de larges publics. Cette mise en
+relation, ne s’appuyant sur aucune validation éditoriale, doit s’appuyer sur d’autres outils
+permettant à l’ensemble des lecteurs de participer à cette validation. Les plates-formes
+organisent une validation collective des productions éditoriales via des systèmes de vote,
+d’évaluation, de commentaires… qui alimentent des algorithmes de recommandation à
+destination de leurs usagers. Il s’agit d’une forme *_horizontale_* de validation collective
+dans laquelle le poids relatif de chaque usager est en principe identique.
+
+C’est notamment le cas sur des plates-formes comme Amazon, sur lesquelles les
+commentaires et les traces d’achat et de navigation produites par les usagers servent de
+base au système de recommandation. Ces recommandations, en rendant visibles certains
+contenus éditoriaux au détriment d’autres, procèdent d’une forme de validation
+collective. Ainsi, c’est l’agrégation des achats et des consultations des internautes sur ces
+plates-formes qui rendront certaines productions éditoriales visibles dans les classements.
+
+En construisant leurs mécanismes de recommandation sur ces logiques, les platesformes
+s’exposent à deux risques principaux. Le premier est celui de l’émergence de
+concurrents. Ce risque, présent sur tous les marchés, prend pour ces plates-formes une
+forme spécifique qui doit être soulignée. En effet, des plates-formes comme Amazon, en
+proposant des mécanismes algorithmiques de validation ou de recommandation, fondent
+leur valeur ajoutée sur une maîtrise technologique bien plus que sur une réelle expertise
+éditoriale. Cette maîtrise technologique s’appuie également sur une base considérable
+d’usagers, mais elle reste concurrençable par d’autres acteurs disposant de moyens
+techniques ou de bases d’usagers plus importantes même si ils sont largement extérieurs
+au secteur de l’édition. C’est l’enjeu des rapports de forces entre ces plates-formes et les
+moteurs de recherche notamment.
+
+Le second risque est celui d’une concentration excessive des navigations et des
+achats sur un nombre trop restreints de contenus. En effet, les logiques algorithmiques de
+recommandation fondées sur les achats précédents vont tendanciellement limiter la
+distribution des consultations sur un nombre de plus en plus limité de titres, entraînant
+dans le même mouvement une concentration des commentaires et des évaluations des
+usagers. Cette dynamique risque de limiter les effets de cette validation collective à un
+nombre restreint de titres et donc de ne pas satisfaire les usagers sortant de ce coeur de
+sélection. C’est pourquoi les recommandations algorithmiques intègrent un part de
+découverte, difficilement évaluable mais qui doit maintenir un délicat équilibre entre une
+proposition de proximité pertinente et une proposition originale élargissant l’offre
+proposée à l’usager. En revanche, dans l’édition académique, les plates-formes de
+publication numérique, dépôts institutionnels ou archives ouvertes ne proposent pas
+d’outils d’évaluation. Le dépôt et la mise à disposition des contenus éditoriaux
+académiques sont facilités et leur accessibilité renforcée, mais la validation collective se
+déploie en d’autres lieux, notamment dans les revues.
+
+La deuxième caractéristique de l’édition numérique qui joue un rôle dans les
+problématiques de validation est la possibilité de mise en relation de larges
+communautés. Il existe de multiples plates-formes qui ne proposent pas de contenus
+éditoriaux numériques mais sur lesquelles des communautés de lecteurs peuvent
+commenter et évaluer des productions éditoriales. On retrouve la même logique sur les
+plates-formes d’écriture où des communautés de lecteurs/auteurs réagissent et
+accompagnent les processus d’écriture. Il s’agit dans les deux cas de formes de validation
+collectives, la légitimation passant par la visibilité et les interactions en ligne, sur réseaux
+ou des plates-formes. La production de contenus savants est également concernée par
+cette dynamique avec le développement d’espaces de publication académiques hors
+revues traditionnelles qui proposent des outils d’échange et de discussion, à défaut
+d’outils formels d’évaluation. L’articulation entre la validation traditionnelle, par les
+revues académiques, et celle pouvant intervenir sur des plates-formes de publication en
+ligne est un enjeu important dans la recherche de processus d’évaluation de la recherche
+actuelle.
+
+Ainsi, si la validation collective des contenus est une pratique ancienne dans le
+monde académique, elle constitue une nouveauté importante pour les contenus grand
+public. Mais dans les deux cas le modèle traditionnel de validation et de légitimation est
+remis en cause par la capacité des lecteurs/auteurs à échanger sur des plates-formes en
+ligne, instaurant de fait une validation collective hors éditeurs.
+
+=== _Réseaux sociaux académiques, épijournaux et mégarevues_
+Le monde de la publication académique a connu au cours des dernières décennies
+des évolutions considérables. Il n’est pas possible de les aborder toutes ici tant ce secteur
+a été bouleversé par l’édition numérique. Nous nous limiterons ici aux nouveaux
+dispositifs de validation collective. La validation dans le monde académique consiste à
+reconnaître, via des acteurs reconnus et des méthodes éprouvées, la validité d’une
+proposition scientifique émise par un ou des chercheurs. Dans le contexte du numérique,
+cette mécanique de validation se heurte toutefois à de multiples écueils.
+
+Le premier problème est l’inflation constante de la publication scientifique au cours
+des dernières décennies. Le nombre de publications à évaluer ne cesse de croître, et de
+nouvelles revues émergent régulièrement, leur fiabilité scientifique étant difficile à
+évaluer. Tous ces éléments posent la question de la pertinence du modèle traditionnel de
+validation et des propositions alternatives que la communauté académique peut mettre en
+place.
+
+Plusieurs propositions de nouvelles formes de publication académique ont vu le
+jour autour du mouvement, maintenant ancien, de l’open access. Sans entrer dans le
+détail des différents voies ouvertes par ces nouveaux modèles (principalement les voies
+dorée et verte), il est important d’identifier les logiques de validation qu’elles impliquent.
+Les épirevues et épijournaux constituent une forme intéressante. Elles proposent un
+modèle qui se place en surplomb des archives ouvertes. Il s’agit concrètement d’opérer
+une sélection, donc une éditorialisation, des contenus académiques déjà disponibles dans
+les archives ouvertes et les dépôts institutionnels. Ces épirevues s’appuient donc sur une
+infrastructure – les archives ouvertes – mais également sur des processus de validation
+traditionnels en ayant recours à des comités de lecture et à une évaluation par les pairs.
+La validation y reste donc encore du ressort des chercheurs, avec les mêmes enjeux de
+légitimité, mais participe à l’activité d’un type nouveau de publications scientifiques, en
+accès libre.
+
+Les mégarevues constituent une autre proposition intéressante. PLOS ONE, qui a
+publié en 2016 plus de 20 000 articles, en est un exemple. Dans ces mégarevues,
+l’évaluation est toujours réalisée par les pairs, mais ne concerne que les aspects
+méthodologiques des articles soumis. L’ensemble des coûts relatifs à la publication sont
+pris en charge par les chercheurs, suivant la voie dite « dorée » d’un financement en
+amont de la publication scientifique. Il s’agit bien d’un modèle de publication nouveau,
+qui autorise la publication d’un nombre colossal d’articles, inenvisageable sur support
+papier. Ici encore, la question de la validation par les pairs, même réduite à la seule
+dimension méthodologique, reste incontournable, elle s’appuie encore sur la légitimité
+académique évoquée plus haut.
+
+La masse considérable de publications scientifiques disponibles en accès libre a
+ainsi induit un glissement des mécanismes de validation et de légitimation des revues
+académiques vers des réseaux sociaux spécialisés comme ResearchGate ou Academia.
+L’objectif du chercheur n’est plus seulement d’obtenir une forme de reconnaissance
+académique par la validation de ses travaux, mais également de bénéficier d’une visibilité
+numérique maximale. Les réseaux sociaux académiques viennent ainsi répondre à un
+besoin de la part des chercheurs de valorisation de leurs travaux, mais aussi d’eux-mêmes.
+
+=== _Validation algorithmique_
+Qu’est-ce qu’un algorithme ?
+
+Dans les environnements numériques, les algorithmes s’imposent comme une
+forme de validation complètement nouvelle par rapport au modèle papier. Désormais, la
+technologie aurait le pouvoir de valider un contenu et de se porter garante de sa qualité ou
+de sa pertinence. L’exemple le plus significatif de cette fonction de validation assumée
+par les algorithmes est Google Search.
+
+Mais il faut d’abord définir ce qu’est un algorithme. Il s’agit d’un ensemble
+ordonné et fini d’instructions telles que, après chaque instruction, on peut connaître
+l’instruction suivante. En d’autres termes, l’algorithme est une procédure formalisée qui
+permet d’obtenir un résultat. Cette procédure a pour caractéristique d’être computable –
+c’est-à-dire qu’elle peut être réalisée par une machine. Prenons un exemple : si l’on
+possède un sac de billes de toutes les couleurs et que l’on souhaite isoler les billes rouges,
+on pourrait imaginer l’algorithme suivant : 1) prend une bille dans le sac ; 2) si la bille est
+rouge, mets-la à droite – si la bille n’est pas rouge, mets-la à gauche ; 3) s’il y a encore
+des billes, retourne à la première instruction – s’il n’y a plus de billes, arrête-toi.
+
+Cet algorithme est exprimé ici en langage naturel, mais il peut très facilement être
+exprimé avec un langage informatique et exécuté par un ordinateur. La machine saura
+exactement ce qu’elle doit faire à chaque étape du processus. Progressivement, les billes
+seront séparées – les rouges à droite et les autres à gauche – et, lorsqu’il ne restera plus
+aucune bille, la machine saura qu’elle doit s’arrêter. On peut construire des algorithmes
+très complexes, qui permettent de réaliser des opérations variées : trier, classer, calculer,
+mais aussi, par exemple, ajouter un effet particulier à une image, réduire la taille d’un
+fichier audio…
+
+_La « magie » de l’algorithme_
+
+Dans les environnements numériques – en particulier sur le Web –, les algorithmes
+jouent un rôle fondamental dans la sélection, le tri et la hiérarchisation des contenus. Que
+l’on pense notamment à PageRank, l’algorithme à la base du moteur de recherche de
+Google, ou à l’algorithme d’Amazon, qui structure les suggestions d’achat sur la page de
+chaque usager, ou encore à EdgeRank, l’algorithme qui ordonne le « mur » des usagers
+de Facebook. Les algorithmes nous recommandent des contenus, en rendent certains
+visibles et d’autres invisibles. Le fait que le classement et la hiérarchisation soient le fruit
+du travail automatisé d’une machine pourrait laisser penser que le résultat proposé est
+objectif. D’ailleurs, la rhétorique adoptée par la plupart des sociétés propriétaires de ces
+algorithmes affirme justement leur neutralité et leur objectivité.
+
+Lorsque l’on effectue une recherche sur Amazon, par exemple, le moteur nous
+propose de classer les résultats en ordre de « pertinence », donnant pour acquis que la
+définition de « pertinence » utilisée par l’algorithme est neutre. Google Search affirme la
+même chose, en nous proposant les résultats les plus « pertinents » et en choisissant une
+dizaine de pages « pertinentes » parmi les millions de pages existantes. La force de
+légitimation de cet algorithme est stupéfiante : concrètement, Google est devenu l’une
+des instances d’autorité les plus influentes de l’histoire. Pour preuve, 96 % des usagers ne
+regardent pas au-delà de la première page des résultats proposés [Harkless, 2012] :
+Google a ainsi acquis le pouvoir de choisir, parmi des millions de contenus, la dizaine de
+contenus « pertinents ». Ces dix premiers contenus sont légitimés par Google de la même
+manière qu’un livre imprimé est légitimé par une maison d’édition. Sauf que
+l’omniprésence de Google – le moteur de recherche le plus utilisé – et la quantité de
+contenus triés rendent la puissance de légitimation de son moteur incomparablement plus
+forte que celle de n’importe quelle maison d’édition.
+
+La plupart du temps, la structure exacte de ces algorithmes est inconnue : ce sont
+des algorithmes propriétaires, dont les spécifications ne sont pas rendues publiques par
+les sociétés qui les développent. En outre, même les principes de base sur lesquels ils sont
+fondés – qui sont normalement déclarés par leurs propriétaires – sont inconnus de la quasi
+totalité des usagers. En conséquence, les résultats obtenus semblent être le fruit d’une
+« magie », d’un processus presque surnaturel et incompréhensible qu’il faut accepter
+parce qu’il se présente comme objectif.
+
+La capacité de légitimation est renforcée justement à cause de cette impossibilité
+d’interroger les principes sur lesquels s’appuie la garantie de qualité et de pertinence.
+Paradoxalement, le comportement du lecteur change totalement selon qu’il consulte un
+quotidien – dont il sait très bien que le choix des informations, leur hiérarchisation, ainsi
+que la façon de les présenter, dépend du point de vue de l’équipe éditoriale – ou une page
+web – dont il ne questionne que trop peu la pertinence, comme si le point de vue de
+l’algorithme était neutre ou complètement objectif.
+
+_Les valeurs des algorithmes : le cas de PageRank_
+
+L’objectivité des algorithmes n’est pourtant qu’un leurre : ils proposent en réalité
+de véritables visions du monde. En particulier, leur façon de classer, de trier et de
+hiérarchiser est toujours fondée sur une conception particulière de ce qui est « pertinent »
+et de ce qui est donc crédible et légitime.
+
+Analysons ainsi les idées sur lesquelles est fondé PageRank, l’algorithme le plus
+important pour le moteur de recherche Google. Même si le véritable algorithme est
+propriétaire – nous n’avons par conséquent pas accès à son code – et que PageRank n’est
+pas le seul algorithme utilisé par Google pour classer les résultats, nous connaissons ses
+principes, qui ont été illustrés par ses créateurs dans un article [Brin et Page, 1998] et qui
+sont par ailleurs toujours mis en avant dans la communication de l’entreprise. PageRank
+classe les pages à partir des liens entrants : plus le nombre de pages pointant vers un
+document est grand, plus ce document est considéré comme important et donc pertinent.
+Bien évidemment, ce principe de classement n’est pas neutre, il renvoie à une idée
+particulière de la légitimité des contenus, qui s’oppose à un autre principe de
+légitimation : l’autorité. L’idée qu’un article est d’autant plus important qu’il est cité a été
+formalisée par Eugène Garfield en 1964 lors de la création du Science Citation Index. Un
+tel modèle n’a donc pas été inventé par les créateurs de Google, puisqu’il est à la base,
+depuis plusieurs décennies, du système de classement des contenus propre au milieu
+académique. L’objectif d’Eugène Garfield était de rendre plus démocratique le
+classement des contenus scientifiques et de remplacer le modèle d’autorité selon lequel
+l’importance – et la crédibilité – d’un contenu est déterminée par la réputation de
+l’auteur. Bien évidemment, le modèle de Garfield n’est pas parfait et produit parfois des
+aberrations : il ne tient notamment pas compte des raisons pour lesquelles un article est
+cité. Il n’est en effet pas rare qu’un contenu soit cité justement parce qu’il est faux. En
+d’autres termes, cette vision du monde tend à mesurer l’impact et la visibilité d’un
+contenu, plus que sa qualité. Elle fait ainsi correspondre légitimité et visibilité. Par
+ailleurs, le fait qu’un article soit bien classé entraîne d’autres citations, mettant ainsi en
+place une boucle qui rend de plus en plus visible un groupe restreint de contenus – c’est
+ce que l’on appelle le _Matthew effect_ [Merton, 1968].
+
+Les principes du Science Citation Index ont été représentés en un modèle
+mathématique sur lequel s’est ensuite appuyé le PageRank : en d’autres termes, ces idées
+ont été transformées en une formule. Cette transformation est une interprétation, donc une
+opération idéologique qui modélise l’idée de départ, supposant une sélection et une
+systématisation de certains principes. Cette systématisation n’est pas nécessaire ni neutre.
+En revanche, Google tient beaucoup à affirmer que l’algorithme seul produit le
+classement, ce qui garantit l’objectivité des résultats de la recherche. Selon la rhétorique
+de l’entreprise, l’indexation de Google est « naturelle » puisqu’elle est le fruit du travail
+de l’algorithme sans être retouchée par l’intervention humaine. On revient à l’idée
+d’objectivité des algorithmes qui, comme nous l’avons souligné, n’est pas sans poser
+problème.
+
+Google produit, de fait, de l’autorité : la quasi totalité des contenus auxquels nous
+accédons a été sélectionnée par ce moteur de recherche et notre niveau de confiance en
+son choix est très élevé, puisque nous nous fions aux premiers résultats qu’il nous
+propose. De fait, il a acquis un pouvoir de légitimation qui dépasse celui de n’importe
+quelle maison d’édition ou de n’importe quel auteur. Nous devons donc désormais
+l’apprécier comme un acteur majeur de l’édition, en prenant garde toutefois de ne pas
+considérer son classement comme un résultat objectif ou « naturel », mais bien comme
+une vision singulière du monde.
